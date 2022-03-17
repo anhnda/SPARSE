@@ -39,13 +39,13 @@ Other combinations of pytorch and cuda can be found at https://data.pyg.org/whl/
 
 ```
 
-### Train SPARSE:
+### Training SPARSE:
 
 ```shell
   python main.py -t -d {""|"C"|"J"}
 
 ```
-### Extracting top prediction:
+### Extracting top predictions:
 
 ```shell
  python main.py -x 
