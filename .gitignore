@@ -1,0 +1,11 @@
+*.pyc
+.idea
+__pycache__/*
+saveModel/*
+logs/*
+rg_*
+gen.sh
+figs/*
+tmpOut/*
+tt.py
+pp

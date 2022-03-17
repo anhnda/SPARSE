@@ -1,0 +1,1472 @@
+10018429	glucose tolerance impaired
+10002958	aphthous stomatitis
+10071275	functional gastrointestinal disorder
+10001488	aggression
+10042170	strangury
+10013050	disability
+10046260	unsteadiness
+10039073	rheumatoid arthritis
+10007632	cardiomegaly
+10027176	memory loss
+10054107	nodule
+10023678	lactic dehydrogenase activity increased
+10036774	proctitis
+10037394	pulmonary haemorrhage
+10013395	disorientation
+10005364	blood bilirubin increased
+10027201	meningitis aseptic
+10061520	ill-defined disorder
+10021245	idiopathic thrombocytopenic purpura
+10033683	panophthalmitis
+10033128	ovarian cancer
+10015916	eye disorder
+10039755	scrotal oedema
+10030295	oligomenorrhoea
+10017474	function kidney decreased
+10034539	periodontitis
+10074170	candida infection
+10003673	atrioventricular block complete
+10009201	circumoral paresthesia
+10018713	gravitational oedema
+10023003	irritable bowel syndrome
+10023126	jaundice
+10061356	porphyrin metabolism disorder
+10027646	miosis
+10009900	colitis ulcerative
+10013482	distention
+10003549	asthenia
+10027197	meningism
+10029350	neurotoxicity
+10061428	decreased appetite
+10021021	hypokinesia
+10040744	sinus headache
+10036051	polycythaemia
+10019022	haemorrhoids
+10015915	eye discharge
+10003225	arteriospasm coronary
+10017543	fungal skin infection
+10017577	gait disturbance
+10033421	pain in arm
+10025409	macular degeneration
+10043991	tongue ulceration
+10047302	ventricular tachycardia
+10020885	hypertrophy of breast
+10064899	vulvovaginal mycotic infection
+10060856	recall phenomenon
+10038063	rectal haemorrhage
+10036450	potassium increased
+10005861	blood uric acid increased
+10062158	secondary infection
+10020642	hyperhidrosis
+10037423	pulmonary oedema
+10044008	tonsillitis
+10006578	bundle branch block
+10024384	leukopenia
+10047290	ventricular fibrillation
+10006298	breast pain
+10040808	skin cancer
+10021027	hypomagnesaemia
+10039085	rhinitis allergic
+10028035	movement disorder
+10023332	keratitis
+10003445	ascites
+10014842	enlargement abdomen
+10017626	gallbladder disorder
+10043261	tenosynovitis
+10043951	tongue disorder
+10000084	abdominal pain lower
+10061289	metastatic neoplasm
+10023639	lacrimation
+10044390	transient ischaemic attack
+10002644	anorectal disorder
+10003246	arthritis
+10001710	allergic cutaneous angiitis
+10029366	neutrophil count decreased
+10033670	panic reaction
+10020649	hyperkeratosis
+10020993	hypoglycaemia
+10022061	injection site erythema
+10026749	mania
+10021089	hyporeflexia
+10040865	skin hyperpigmentation
+10021036	hyponatraemia
+10013654	drug abuse
+10013982	dysthymic disorder
+10028848	necrolysis epidermal
+10034568	peripheral coldness
+10013786	dry skin
+10040907	skin papilloma
+10022095	injection site reaction
+10041349	somnolence
+10040617	shoulder pain
+10001890	alveolitis allergic
+10058467	lung neoplasm malignant
+10004146	basal cell carcinoma
+10013649	drowsiness
+10013442	disseminated intravascular coagulation
+10021143	hypoxia
+10024855	loss of consciousness
+10003677	atrioventricular block second degree
+10030901	opportunistic infection
+10013491	distress gastrointestinal
+10011291	cramp muscle
+10033775	paraesthesia
+10028735	nasal congestion
+10043648	thrombotic thrombocytopenic purpura
+10010144	completed suicide
+10062519	poor quality sleep
+10010774	constipation
+10043171	tearing eyes
+10006784	burning sensation
+10029148	nephrolithiasis
+10008754	choreoathetosis
+10048294	mental status changes
+10046922	vaginal moniliasis
+10037156	psoriasis flare-up
+10011369	creatinine low
+10034977	phototoxicity
+10024380	leukoderma
+10072746	lacrimal structural disorder
+10003997	bacteraemia
+10047289	ventricular extrasystoles
+10020049	high cholesterol
+10016322	feeling abnormal
+10033474	pain of skin
+10012641	diabetic
+10031161	osteoarthritis
+10015212	erythema facial
+10040233	serum creatinine increased
+10027627	miliaria
+10037050	prothrombin level decreased
+10023665	lactation female
+10043561	thrombocytopenic purpura
+10042062	stillbirth
+10047281	ventricular arrhythmia
+10019754	hepatitis cholestatic
+10018143	genital candidiasis
+10041823	squamous cell carcinoma
+10034341	peptic ulcer
+10007649	cardiovascular disorder
+10042664	sweating decreased
+10026883	mastitis
+10005901	body odor
+10013916	dyskinesia
+10020112	hirsutism
+10037686	pyuria
+10002847	anuria
+10034835	pharyngitis
+10017600	galactorrhoea
+10008417	cheilitis
+10007515	cardiac arrest
+10046694	urogenital disorder
+10045240	type i hypersensitivity
+10014328	ejaculation failure
+10009887	colitis
+10002855	anxiety
+10035664	pneumonia
+10019063	hallucination
+10011509	crystalluria
+10030337	onycholysis
+10062467	localized exfoliation
+10040089	septicemia
+10006451	bronchitis
+10028653	myositis
+10046996	varicose vein
+10035623	pleuritic pain
+10053425	injection site swelling
+10005910	body temperature decreased
+10021942	infestation nos
+10006559	bullous eruption
+10020568	hyperaesthesia
+10007284	carcinoma
+10024680	liver fatty
+10003046	application site irritation
+10008190	cerebrovascular accident
+10021283	iiird nerve paralysis
+10028417	myasthenia gravis
+10013983	dystonia
+10010947	coordination abnormal
+10061592	cardiac fibrillation
+10040799	skin atrophy
+10013496	disturbance in attention
+10045285	ulcer
+10058920	restless legs syndrome
+10013774	dry eye
+10012431	dermatitis
+10033871	paranoid reaction
+10006100	bradykinesia
+10040558	shivering
+10018830	haematemesis
+10020400	hostility
+10014801	endophthalmitis
+10008479	chest pain
+10044755	tuberculosis
+10041812	sputum increased
+10021142	hypoxemia
+10017533	fungal infection
+10013033	diplegia
+10015929	eye infection
+10010893	conversion disorder
+10020799	hypertension worsened
+10012438	dermatitis atopic
+10046798	uterine leiomyoma
+10030875	ophthalmoplegia
+10014625	encephalopathy
+10061229	lung infection
+10014391	electrocardiogram st segment depression
+10037549	purpura
+10023891	laryngospasm
+10002500	angle closure glaucoma
+10019948	herpes simplex
+10000819	acute interstitial nephritis
+10006313	breast tenderness
+10024214	lenticular opacities
+10038435	renal failure
+10028810	nasopharyngitis
+10052554	foetor hepaticus
+10008111	cerebral haemorrhage
+10038158	red blood cell disorders
+10043269	tension headache
+10023874	laryngitis
+10006539	buffalo hump
+10028154	multi-organ failure
+10061922	pulmonary function test decreased
+10046788	uterine haemorrhage
+10049119	emotional distress
+10008629	cholelithiasis
+10043131	taste disorders
+10005483	blood creatinine increased
+10036556	pregnancy
+10046406	ureteric obstruction
+10021058	hypophosphataemia
+10062226	urine analysis abnormal
+10028980	neoplasm
+10049848	balance disorder
+10047824	warmth
+10015150	erythema
+10018964	haemoptysis
+10045170	tumour lysis syndrome
+10003061	apprehension
+10058097	metabolic disorder
+10005395	blood calcium decreased
+10019974	herpes zoster
+10003017	appetite absent
+10002388	angina unstable
+10018386	glossitis
+10039408	salivary gland enlargement
+10004065	bad taste
+10024968	lower respiratory tract infection
+10024378	leukocytosis
+10036618	premenstrual syndrome
+10043275	teratogenicity
+10000269	abscess
+10073281	withdrawal symptom
+10052428	wound
+10040753	sinusitis
+10060708	induration
+10014326	ejaculation disorder
+10061087	connective tissue disorder
+10060800	hot flush
+10027378	mental retardation
+10067171	regurgitation
+10034018	parosmia
+10030338	onychomycosis
+10067125	liver injury
+10011401	crohn's disease
+10040527	shakiness
+10009871	coldness
+10036186	porphyria non-acute
+10048746	abdominal bloating
+10046543	urinary incontinence
+10054996	infusion site reaction
+10009657	clostridium difficile colitis
+10013941	dyspareunia
+10006482	bronchospasm
+10070834	sensitisation
+10042033	stevens-johnson syndrome
+10009240	claudication
+10048557	raised liver function tests
+10037076	protrusion tongue
+10042772	syncope
+10011667	cutaneous hypersensitivity
+10022595	international normalised ratio increased
+10039793	seborrhoeic dermatitis
+10036018	pollakiuria
+10036522	precordial pain
+10009895	colitis ischaemic
+10016766	flatulence
+10048962	brain oedema
+10051116	foreign body sensation in eyes
+10025310	lymphoma
+10039218	rosacea
+10013036	diplopia
+10023641	lacrimation abnormal nos
+10037947	reaction gastrointestinal
+10005863	blood urine
+10061273	malnutrition
+10052804	drug tolerance
+10049843	acneiform eruption
+10039083	rhinitis
+10038419	renal colic
+10053759	growth retardation
+10033371	pain
+10021639	incontinence
+10005603	blood in stool
+10019837	hepatocellular injury
+10062173	venoocclusive disease
+10005725	blood potassium increased
+10052904	musculoskeletal stiffness
+10019708	hepatic steatosis
+10012379	depression aggravated
+10027308	menopause
+10007636	cardiomyopathy
+10024840	loose stools
+10019465	hemiparesis
+10022489	insulin resistance
+10024870	loss of libido
+10009846	cognitive impairment
+10034765	peyronie's disease
+10046735	urticaria
+10021118	hypotonia
+10002646	anorexia
+10007305	carcinoma breast
+10007554	cardiac failure
+10041232	sneezing
+10029290	neurologic reaction
+10005271	block heart
+10007617	cardio-respiratory arrest
+10014080	ecchymosis
+10016334	feeling hot
+10038490	renal pain
+10048451	surgical intervention
+10000125	abnormal dreams
+10020559	hyperacusis
+10005169	blindness
+10037578	pustule
+10012741	diarrhoea haemorrhagic
+10019727	hepatitis acute
+10034721	personality disorder
+10028651	myopia
+10008604	cholangitis
+10014695	endocrine disorder
+10034839	pharyngitis streptococcal
+10034576	peripheral ischaemia
+10060862	prostate cancer
+10029240	neuritis
+10037093	pruritus genital
+10016759	flat affect
+10024670	liver disorder
+10012432	dermatitis acneiform
+10020201	hoarseness
+10034580	peripheral motor neuropathy
+10036142	polyuria
+10015866	extravasation
+10042316	subarachnoid haemorrhage
+10025197	lymphadenopathy
+10011703	cyanosis
+10019973	herpes virus infection
+10048592	musculoskeletal disorder
+10038695	respiratory failure
+10012559	developmental delay
+10016059	facial pain
+10036183	porphyria cutanea tarda
+10067979	traumatic liver injury
+10040738	sinus arrest
+10042462	suicide
+10062501	non-cardiac chest pain
+10003011	appendicitis
+10012351	dependence physiological
+10018659	grand mal convulsion
+10049796	excoriation
+10015218	erythema multiforme
+10023848	laryngeal pain
+10029151	nephropathy
+10011035	corneal opacity
+10017955	gastrointestinal haemorrhage
+10006326	breath odour
+10062000	hepatobiliary disease
+10037128	pseudomembranous colitis
+10045369	ulcerative stomatitis
+10028843	neck stiffness
+10061920	psychotic disorder
+10014950	eosinophilia
+10027327	menstrual disorder
+10028596	myocardial infarction
+10012735	diarrhoea
+10037888	rash pustular
+10014408	electroencephalogram abnormal
+10059894	urine output
+10007776	catatonia
+10027937	mood alteration nos
+10000486	acidosis
+10046318	upset stomach
+10028584	myelosuppression
+10036874	prolonged menses
+10033072	otitis externa
+10038262	reflux esophagitis
+10008496	chest wall pain
+10011000	corneal deposits
+10029162	nephrosis lower nephron
+10001928	amenorrhoea
+10036067	polydipsia
+10049447	tachyarrhythmia
+10046914	vaginal infection
+10008570	chloasma
+10062352	respiratory tract infection
+10011732	cyst
+10033645	pancreatitis
+10036790	productive cough
+10041962	status epilepticus
+10015000	epididymitis
+10020060	high density lipoprotein decreased
+10050564	partial hearing loss
+10013710	drug interaction
+10042661	sweating
+10035028	pigmentation skin
+10020377	hordeolum
+10022562	intermittent claudication
+10043071	tachycardia
+10073755	pneumocystis jirovecii pneumonia
+10024770	local swelling
+10040844	skin exfoliation
+10028521	mydriasis
+10003658	atrial fibrillation
+10004974	black hairy tongue
+10042066	stinging
+10057765	procedural complication
+10005482	blood creatinine decreased
+10034927	phosphatase alkaline increased
+10034636	peripheral vascular disorder
+10021425	immune system disorder
+10039705	scleritis
+10039807	secondary adrenocortical insufficiency
+10033557	palpitations
+10043135	taste metallic
+10038198	redness
+10013968	dyspnoea
+10020660	hyperlactacidaemia
+10029864	nystagmus
+10020751	hypersensitivity
+10028200	multiple fractures
+10054209	gastrointestinal discomfort
+10039177	rigors
+10027313	menorrhagia
+10001367	adrenal insufficiency
+10040872	skin infection
+10016936	folliculitis
+10043354	testicular swelling
+10040742	sinus congestion
+10061525	lacrimal disorder
+10061818	disease progression
+10037693	qrs complex
+10029547	non-hodgkin's lymphoma
+10039729	scotoma
+10015037	epilepsy
+10038540	renal tubular necrosis
+10023229	joint sprain
+10028289	muscle atrophy
+10005555	blood glucose decreased
+10011878	deafness
+10003054	application site rash
+10031009	oral pain
+10034960	photophobia
+10024492	lightheadedness
+10042361	subdural haematoma
+10018286	gingival pain
+10012373	depressed level of consciousness
+10028600	myocardial ischaemia
+10011368	creatinine increased
+10010305	confusional state
+10013687	drug eruption
+10013954	dysphoria
+10024574	lipase increased
+10040904	skin odour abnormal
+10020039	hiccups
+10061021	breast disorder
+10027514	metrorrhagia
+10030095	oedema
+10018838	haematocrit decreased
+10021154	hysteria
+10017885	gastrooesophageal reflux disease
+10002216	anaphylactoid reaction
+10062237	renal impairment
+10028689	nail changes
+10043458	thirst
+10044461	trauma
+10020989	hypogeusia
+10005329	blood and lymphatic system disorders
+10022067	injection site haemorrhage
+10040831	skin disorder
+10024608	lipodystrophy
+10011224	cough
+10016062	facial paralysis
+10048216	xanthopsia
+10035528	platelet count decreased
+10010926	convulsive seizure
+10015575	exacerbation of asthma
+10018627	gout
+10014004	ear disorder
+10002711	anterograde amnesia
+10040432	serum urea increased
+10007943	central nervous system disorder
+10043967	tongue oedema
+10047585	vital dye staining cornea present
+10016326	feeling cold
+10006279	breast neoplasm
+10034620	peripheral sensory neuropathy
+10017888	gastroenteritis
+10037867	rash macular
+10040829	skin discolouration
+10067967	brain injury
+10028411	myalgia
+10047381	vesiculobullous rash
+10005470	blood creatine phosphokinase increased
+10061355	poisoning
+10030154	oesophageal candidiasis
+10010719	conjunctival haemorrhage
+10018292	gingivitis
+10002368	anger
+10022009	influenza-like symptoms
+10014325	ejaculation delayed
+10037368	pulmonary congestion
+10029354	neutropenia
+10000060	abdominal distension
+10017076	fracture
+10017711	gangrene
+10024891	low back pain
+10005803	blood sodium increased
+10040070	septic shock
+10046555	urinary retention
+10021133	hypoventilation
+10001551	alanine aminotransferase increased
+10049088	osteopenia
+10034158	pathological gambling
+10064000	lichenoid keratosis
+10034010	parkinsonism
+10040000	sensation of heaviness
+10047899	weight increased
+10035598	pleural effusion
+10047461	viral infection
+10016330	feeling drunk
+10039999	sensation of heat
+10061280	mediastinal disorder
+10046601	urination impaired
+10018916	haemolytic anaemia
+10022773	intracranial pressure increased
+10052251	respiratory tract congestion
+10043882	tinnitus
+10057071	rectal tenesmus
+10007764	cataract subcapsular
+10073069	hepatic cancer
+10002858	anxiety depression
+10052545	flu symptoms
+10024264	lethargy
+10006299	breast pain female
+10002965	aplasia pure red cell
+10048010	withdrawal syndrome
+10029117	nephritis
+10042609	surgery
+10068172	anal pruritus
+10022459	instillation site pain
+10013663	drug dependence
+10040628	sialoadenitis
+10000687	acute bronchitis
+10005425	blood cholesterol increased
+10003285	arthropathy
+10020565	hyperaemia
+10033433	pain in jaw
+10013538	diverticulitis
+10010071	coma
+10014733	endometrial cancer
+10067571	nephrotoxicity
+10027353	mental disability
+10023232	joint swelling
+10023644	lacrimation increased
+10065059	application site burn
+10047163	vasospasm
+10054889	transaminases increased
+10005159	blepharospasm
+10012218	delirium
+10047216	venoocclusive liver disease
+10060055	antinuclear antibody positive
+10012441	dermatitis bullous
+10042868	synovitis
+10024453	ligament sprain
+10000055	abdominal colic
+10013756	drug withdrawal syndrome neonatal
+10054534	paresthesia of limbs
+10018932	haemolytic uraemic syndrome
+10062060	hyperlipidaemia
+10038436	renal failure acute
+10019842	hepatomegaly
+10061590	blood disorder
+10061598	immunodeficiency
+10040984	sleep disorder
+10047924	wheezing
+10033132	ovarian cyst
+10028533	myelodysplastic syndrome
+10007595	cardiac output decreased
+10013935	dysmenorrhoea
+10001507	agranulocytosis
+10062315	lipohypertrophy
+10056806	bilirubin total increased
+10020651	hyperkinesia
+10011781	cystitis
+10020802	hypertensive crisis
+10019345	heat stroke
+10019909	hernia
+10058359	hypogonadism
+10018364	glomerulonephritis
+10014866	enteritis
+10019944	herpes nos
+10041660	splenomegaly
+10016225	fasciculation
+10034484	pericarditis
+10023676	lactic acidosis
+10021654	increased appetite
+10018735	groin pain
+10049816	muscle tightness
+10044055	toothache
+10024127	leg edema
+10014020	ear pain
+10038687	respiratory distress
+10023572	laceration
+10005003	bladder cancer
+10019245	hearing impaired
+10036402	postnasal drip
+10019670	hepatic function abnormal
+10038979	retroperitoneal fibrosis
+10052143	ocular discomfort
+10040658	sickness
+10018283	gingival hyperplasia
+10061414	white blood cell disorder
+10068315	fasting
+10021519	impaired healing
+10029446	nocturia
+10033109	ototoxicity
+10052139	eye oedema
+10010264	condition aggravated
+10036452	potassium low
+10012174	dehydration
+10046239	unspecified visual loss
+10066899	venous thromboembolism
+10003553	asthma
+10019851	hepatotoxicity
+10039109	rhonchi
+10034879	phlebitis
+10009866	cold sweat
+10043298	testicular atrophy
+10018867	haematuria
+10012980	digestion impaired
+10043778	thyroiditis
+10053483	infusion site pain
+10019030	hair colour changes
+10041053	slurred speech
+10018388	glossodynia
+10001906	amblyopia
+10001580	albuminuria
+10029223	neuralgia
+10003591	ataxia
+10006895	cachexia
+10005328	blood amylase increased
+10041235	snoring
+10030194	oesophageal stenosis
+10019660	hepatic encephalopathy
+10047386	vestibular disorder
+10034263	pelvic pain
+10019717	hepatitis
+10036661	priapism
+10038988	retrosternal pain
+10002653	anosmia
+10037833	rales
+10017060	forgetfulness
+10033661	pancytopenia
+10027417	metabolic acidosis
+10033799	paralysis
+10003674	atrioventricular block first degree
+10011033	corneal oedema
+10021113	hypothermia
+10004277	benign intracranial hypertension
+10046306	upper respiratory tract infection
+10023547	laboratory test abnormal
+10018985	haemorrhage intracranial
+10044000	tonic-clonic seizures
+10038776	retching
+10036653	presyncope
+10019847	hepatosplenomegaly
+10010276	conduction disorder
+10006187	breast cancer
+10014377	electrocardiogram qrs complex
+10046369	uremia
+10034023	parotid gland enlargement
+10014363	electrocardiogram abnormal
+10059570	blood alkaline phosphatase increased
+10047654	vitreous floaters
+10047249	venous thrombosis
+10022727	intoxication
+10047839	water retention
+10043345	testicular pain
+10057372	paraesthesia oral
+10030201	oesophageal ulcer
+10057666	anxiety disorder
+10050779	ventricular bigeminy
+10002329	aneurysm
+10035669	pneumonia aspiration
+10008139	cerebration impaired
+10070863	toxicity to various agents
+10015016	epigastric distress
+10047666	vivid dreams
+10061536	parkinson's disease
+10027951	mood swings
+10041347	somnambulism
+10052137	ear discomfort
+10053123	protein urine present
+10000133	abnormal faeces
+10028391	musculoskeletal pain
+10047340	vertigo
+10012484	dermatitis perioral
+10003840	autonomic nervous system imbalance
+10005557	blood glucose increased
+10033078	otitis media
+10002942	apathy
+10026865	mass
+10046566	urinary tract disorder
+10042682	swelling face
+10040925	skin striae
+10022000	influenza
+10061169	embolism
+10014383	electrocardiogram qt corrected interval prolonged
+10042602	supraventricular extrasystoles
+10028293	muscle contractions involuntary
+10005630	blood lactate dehydrogenase increased
+10031282	osteoporosis
+10053172	fatal outcomes
+10018767	guillain-barre syndrome
+10013773	dry cough
+10037377	pulmonary embolism
+10008796	chromaturia
+10052437	nasal discomfort
+10047543	visual disturbance
+10020864	hypertrichosis
+10025102	lung infiltration
+10019037	hair disorder
+10020524	hydronephrosis
+10020646	hyperkalaemia
+10061664	autoimmune disorder
+10019772	hepatitis fulminant
+10039897	sedation
+10020737	hyperprolactinaemia
+10047097	vascular purpura
+10020564	hyperadrenocorticism
+10010741	conjunctivitis
+10028997	neoplasm malignant
+10046480	urethritis
+10047700	vomiting
+10005839	blood triglycerides increased
+10037083	prurigo
+10040379	serum potassium increased
+10053198	inappropriate antidiuretic hormone secretion
+10043306	testicular disorder
+10042264	stupor
+10008666	cholesterol serum elevated
+10047142	vasodilation
+10066364	hypersexuality
+10033139	ovarian disorder
+10030216	oesophagitis
+10042045	stiffness
+10025188	lymphadenitis
+10007739	cataract
+10002016	amylase increased
+10019641	hepatic cirrhosis
+10018876	haemoglobin
+10044032	tooth discolouration
+10046916	vaginal inflammation
+10003656	atrial arrhythmia
+10005986	bone marrow depression
+10043595	thrombophlebitis superficial
+10022116	injury
+10047895	weight decreased
+10022035	initial insomnia
+10007882	cellulitis
+10014522	embolism venous
+10000097	abdominal tenderness
+10011228	cough increased
+10030041	ocular hyperaemia
+10062530	increased bronchial secretion
+10025280	lymphocytosis
+10058483	nuchal rigidity
+10061284	mental disorder
+10037382	pulmonary eosinophilia
+10001480	ageusia
+10046461	urethral pain
+10037127	pseudolymphoma
+10023348	keratoconjunctivitis
+10039509	scab
+10042777	syncope vasovagal
+10020741	hyperpyrexia
+10049151	neutropenic sepsis
+10042945	systemic lupus erythematosus
+10015967	eye swelling
+10031250	osteomalacia
+10008748	chorea
+10021083	hypoproteinaemia
+10059024	gastrointestinal toxicity
+10014962	eosinophilic pneumonia
+10003055	application site reaction
+10023230	joint stiffness
+10062575	muscle contracture
+10018421	glucose increased
+10048799	acute generalised exanthematous pustulosis
+10051511	viral diarrhoea
+10009711	cns depression nos
+10040943	skin ulcer
+10034674	peritonitis
+10022086	injection site pain
+10021333	ileus paralytic
+10061924	pulmonary toxicity
+10007810	catheter related infection
+10034701	peroneal nerve palsy
+10006093	bradycardia
+10038060	rectal disorder
+10016750	flank pain
+10015237	erythema of eyelid
+10020942	hypoalbuminaemia
+10020969	hypochromic anaemia
+10012601	diabetes mellitus
+10000636	activated partial thromboplastin time prolonged
+10050040	viith nerve paralysis
+10046571	urinary tract infection
+10008635	cholestasis
+10003598	atelectasis
+10034336	penis disorder
+10061322	optic nerve disorder
+10070840	gastrointestinal tract irritation
+10026780	manic psychosis
+10033892	paraplegia
+10002948	aphasia
+10001584	alcohol abuse
+10003178	arterial thrombosis
+10000173	abnormal sensation in eye
+10028742	nasal irritation
+10030071	oculogyric crisis
+10035039	piloerection
+10011686	cutaneous vasculitis
+10029458	nodal arrhythmia
+10013993	ear and labyrinth disorders
+10033733	papule
+10048610	cardiotoxicity
+10001536	airway obstruction nos
+10028339	muscle stiffness
+10024429	lichen planus
+10037767	radiation recall reaction (dermatologic)
+10000087	abdominal pain upper
+10014217	edema cerebral
+10035759	pneumothorax
+10030963	oral candidiasis
+10042434	sudden death
+10039428	salivation
+10005191	blister
+10015856	extrasystoles
+10058794	vasodilation procedure
+10031252	osteomyelitis
+10033425	pain in extremity
+10037596	pyelonephritis
+10013642	drooling
+10016288	febrile neutropenia
+10052840	cardiac flutter
+10060860	neurological symptom
+10011301	cramps of lower extremities
+10023365	keratopathy
+10008120	cerebral ischaemia
+10017822	gastric ulcer
+10018428	glucose tolerance decreased
+10044016	tooth abscess
+10002974	apnoea
+10019211	headache
+10014011	ear infection
+10048221	xerophthalmia
+10016621	fibrocystic breast disease
+10030302	oliguria
+10036807	progressive multifocal leukoencephalopathy
+10002199	anaphylactic shock
+10040741	sinus bradycardia
+10035532	platelet disorder
+10015622	excitability
+10029331	neuropathy peripheral
+10043118	tardive dyskinesia
+10037855	rash erythematous
+10003662	atrial flutter
+10014395	electrocardiogram t wave inversion
+10033712	papilloedema
+10028116	mucosal inflammation
+10061549	sensation of foreign body
+10029155	nephropathy toxic
+10061116	electrocardiogram change
+10015138	eruption
+10017944	gastrointestinal disorder
+10066274	cytopenia
+10060795	hepatic enzyme increased
+10047124	vasculitis necrotising
+10019795	hepatitis toxic
+10000186	abnormal vision
+10059245	angiopathy
+10010356	congenital anomaly
+10041052	sluggishness
+10042674	swelling
+10064687	device related infection
+10070488	upper-airway cough syndrome
+10001541	akinesia
+10073508	drug reaction with eosinophilia and systemic symptoms
+10016338	feeling jittery
+10033864	paranoia
+10004663	biliary colic
+10005911	body temperature increased
+10041466	speech disorder
+10061296	motor dysfunction
+10011047	corneal staining
+10056530	vulvovaginal pruritus
+10027990	motion sickness
+10018498	goitre
+10007625	cardiogenic shock
+10013573	dizziness
+10046851	uveitis
+10034844	pharyngolaryngeal pain
+10039626	schizophrenia
+10058108	dyslipidaemia
+10050012	bradyphrenia
+10043554	thrombocytopenia
+10018011	gastrointestinal symptom nos
+10006223	breast discharge
+10028641	myopathy
+10020937	hypoaesthesia
+10045771	unspecified disorder of autonomic nervous system
+10022687	intestinal obstruction
+10011013	corneal erosion
+10017557	furunculosis
+10040477	sexual dysfunction
+10038669	respiratory arrest
+10046904	vaginal dryness
+10001493	aggressive reaction
+10008118	cerebral infarction
+10030899	opisthotonus
+10020711	hyperphosphataemia
+10024130	leg pain
+10012357	depersonalisation
+10030942	optic neuritis
+10013950	dysphagia
+10013487	distress
+10000128	abnormal ejaculation
+10040047	sepsis
+10058909	muscle relaxant therapy
+10027175	memory impairment
+10018870	blood urine present
+10001949	amnesia
+10040030	sensory loss
+10015946	eye irritation
+10025327	lymphopenia
+10034028	parotid swelling
+10038848	retinal detachment
+10000059	abdominal discomfort
+10052254	hepatic impairment
+10043431	thinking abnormal
+10054196	affect lability
+10007013	calculus of kidney
+10067868	skin mass
+10042667	sweating increased
+10003041	application site erythema
+10046901	vaginal discharge
+10012318	dental caries
+10018473	glycosuria
+10004939	bipolar i disorder
+10001497	agitation
+10034545	periorbital oedema
+10040995	sleep disturbance
+10043189	telangiectasia
+10014184	eczema
+10002370	angiitis necrotising
+10040739	sinus arrhythmia
+10020750	hypersensitive syndrome
+10008589	choking
+10027599	migraine
+10033985	paresis
+10064752	urine color abnormal
+10016642	fibrosis
+10047943	white blood cell count increased
+10034966	photosensitivity
+10040979	sleep apnoea syndrome
+10042566	superinfection
+10066091	bronchial hyperreactivity
+10052897	nerve injury
+10012374	depressed mood
+10000245	abrasion nos
+10018910	haemolysis
+10021926	infertility
+10024552	lip dry
+10025082	lung disorder
+10020910	hyperventilation
+10048474	fat redistribution
+10002065	anaemia megaloblastic
+10011078	coronary artery disease
+10021107	hypotensive
+10001854	altered state of consciousness
+10068319	oropharyngeal pain
+10065929	cardiovascular insufficiency
+10043565	thromboembolic event
+10013457	dissociation
+10017553	furuncle
+10019663	hepatic failure
+10000804	acute hepatic failure
+10043380	tetany
+10011469	crying
+10025134	lupus erythematosus
+10021105	hypotension symptomatic
+10029134	nephritis interstitial
+10048302	tubulointerstitial nephritis
+10046445	urethral disorder
+10056542	hepatic insufficiency
+10001443	affective disorder
+10014928	enuresis
+10028694	nail disorder
+10044684	trismus
+10034962	photopsia
+10033647	pancreatitis acute
+10006242	breast enlargement
+10023422	kidney function abnormal
+10057840	major depression
+10042604	supraventricular tachycardia
+10016803	fluid overload
+10000891	acute myocardial infarction
+10002967	aplastic anaemia
+10048762	tooth infection
+10019304	heart rate irregular
+10023567	labyrinthitis
+10024119	left ventricular failure
+10003051	application site pain
+10019692	hepatic necrosis
+10023129	jaundice cholestatic
+10071066	posterior reversible encephalopathy syndrome
+10034719	personality change
+10059896	urine output increased
+10061459	gastrointestinal ulcer
+10021328	ileus
+10043521	throat irritation
+10037051	prothrombin level increased
+10038537	renal tubular disorder
+10008492	chest tightness
+10000424	ache
+10015926	eye haemorrhage
+10064996	ulcerative keratitis
+10018304	glaucoma
+10024288	leukaemia
+10018276	gingival bleeding
+10054498	edema of lower extremities
+10038647	respiration abnormal
+10006464	bronchoconstriction
+10040602	short-term memory loss
+10011372	creatinine renal clearance decreased
+10054089	depressive symptom
+10010904	convulsion
+10000565	acquired immunodeficiency syndrome
+10013523	diuresis
+10013781	dry mouth
+10073071	hepatocellular carcinoma
+10028622	myoclonus
+10040108	serotonin syndrome
+10006240	breast engorgement
+10044223	toxic epidermal necrolysis
+10006811	bursitis
+10031127	orthostatic hypotension
+10064882	procedural pain
+10028041	movements involuntary
+10005184	blindness transient
+10009033	chronic obstructive pulmonary disease
+10006247	breast feeding
+10020745	hyperreflexia
+10005746	blood pressure fluctuation
+10042464	suicide attempt
+10044066	torsade de pointes
+10027339	menstruation irregular
+10029202	nervous system disorder
+10037858	rash generalised
+10021518	impaired gastric emptying
+10028133	mucous membrane disorder
+10008196	cerebrovascular disorder
+10033664	panic attack
+10049287	lipodystrophy acquired
+10013697	drug fever
+10044074	torticollis
+10003988	back pain
+10009802	coagulopathy
+10017693	gamma-glutamyltransferase increased
+10012352	dependence psychological
+10039101	rhinorrhoea
+10029404	night blindness
+10043607	thrombosis
+10005956	bone disorder
+10047791	vulvovaginal dryness
+10004446	benign prostatic hyperplasia
+10051625	conjunctival hyperaemia
+10021114	hypothyroidism
+10000880	acute myeloid leukaemia
+10000830	acute leukaemia
+10013700	drug hypersensitivity
+10028335	muscle spasticity
+10068318	oropharyngeal discomfort
+10020869	hypertriglyceridaemia
+10000389	accommodation disorder
+10034829	pharyngeal oedema
+10061877	obstructive airways disorder
+10029216	nervousness
+10011652	cushing's syndrome
+10040893	skin necrosis
+10028334	muscle spasms
+10017367	frequent bowel movements
+10058675	dermatitis psoriasiform
+10047513	vision blurred
+10028813	nausea
+10042076	stomach ache
+10003074	arachnoiditis
+10040560	shock
+10043224	tenderness
+10034280	pemphigus
+10001889	alveolitis
+10029883	obesity
+10028836	neck pain
+10003053	application site pruritus
+10038678	respiratory depression
+10009677	clotting
+10039674	sciatica
+10012455	dermatitis exfoliative
+10012378	depression
+10050904	cytolytic hepatitis
+10007559	cardiac failure congestive
+10025415	macular oedema
+10006514	bruxism
+10004161	basedow's disease
+10037898	rash vesicular
+10022004	influenza like illness
+10005140	bleeding time prolonged
+10044565	tremor
+10022694	intestinal perforation
+10005780	blood prolactin increased
+10029829	numbness
+10022941	iridocyclitis
+10043239	tendon disorder
+10047650	vitreous detachment
+10016029	face oedema
+10038701	respiratory insufficiency
+10000496	acne
+10062080	pigmentation disorder
+10027561	micturition disorder
+10057668	cognitive disorder
+10040880	skin irritation
+10028372	muscular weakness
+10024400	leukorrhea
+10036105	polyneuropathy
+10037153	psoriasis
+10021789	infection
+10028415	myasthenia
+10024769	local reaction
+10063057	cystitis noninfective
+10020852	hypertonia
+10036978	prostatitis
+10028692	nail discolouration
+10007610	cardiac tamponade
+10027590	middle insomnia
+10062903	urethritis noninfective
+10002383	angina pectoris
+10020765	hypersomnia
+10027926	monoplegia
+10010765	consciousness abnormal
+10019731	hepatitis b
+10019744	hepatitis c
+10048038	wound infection
+10029282	neuroleptic malignant syndrome
+10043524	throat sore
+10000314	abscess periodontal
+10015993	eyelid oedema
+10015835	extrapyramidal symptoms
+10046542	urinary hesitation
+10038683	respiratory disorder
+10018884	haemoglobin decreased
+10043268	tension
+10043127	taste bitter
+10040400	serum sickness
+10003885	azotaemia
+10029164	nephrotic syndrome
+10037213	psychomotor retardation
+10013082	discomfort
+10043570	thrombophlebitis
+10016256	fatigue
+10021688	increased tendency to bruise
+10027906	monocytosis
+10057371	hypoaesthesia oral
+10003239	arthralgia
+10044563	trembling
+10003130	arrhythmia supraventricular
+10014418	electrolyte imbalance
+10061024	cardiac disorder
+10068753	infusion site reactions
+10016740	fixed drug eruption
+10065604	suicidal behaviour
+10034474	pericardial effusion
+10057739	purpura non-thrombocytopenic
+10025282	lymphoedema
+10030973	oral discomfort
+10018092	generalised oedema
+10028606	myocarditis
+10056325	faecaloma
+10051592	acute coronary syndrome
+10018852	haematoma
+10013578	dizziness postural
+10020635	hyperglycaemia
+10057040	temperature intolerance
+10017791	gastric irritation
+10035618	pleurisy
+10022998	irritability
+10054786	skin burning sensation
+10044034	tooth disorder
+10016825	flushing
+10007586	cardiac murmur
+10017999	gastrointestinal pain
+10039424	salivary hypersecretion
+10013886	dysaesthesia
+10005724	blood potassium decreased
+10022611	interstitial lung disease
+10013836	duodenal ulcer
+10008531	chills
+10019617	henoch-schonlein purpura
+10016092	faecal incontinence
+10061422	abnormal behaviour
+10037508	punctate keratitis
+10027110	megacolon
+10021030	hypomania
+10003883	azoospermia
+10028347	muscle twitching
+10027141	melaena
+10021015	hypokalaemia
+10046910	vaginal haemorrhage
+10053613	type iv hypersensitivity reaction
+10025650	malignant melanoma
+10005833	blood thyroid stimulating hormone increased
+10039095	rhinitis seasonal
+10002034	anaemia
+10014945	eosinophil count increased
+10001760	alopecia
+10014551	emotional disorder
+10046607	urine abnormality
+10020603	hypercholesterolaemia
+10064780	breath sounds abnormal
+10019468	hemiplegia
+10052140	eye pruritus
+10003552	asthenopia
+10015026	epigastric pain
+10061130	eyelid disorder
+10027304	menopausal symptoms
+10040867	skin hypertrophy
+10038444	renal failure chronic
+10058080	staphylococcal infection
+10030110	oedema mouth
+10012267	dementia
+10033546	pallor
+10023845	laryngeal oedema
+10040006	sensation of warmth
+10056988	faecalith
+10019133	hangover
+10050551	lupus-like syndrome
+10027496	methaemoglobinaemia
+10043566	thromboembolism
+10036956	prostatic disorder
+10007433	carcinoma of lung
+10015535	euphoric mood
+10056720	muscle mass
+10047942	white blood cell count decreased
+10053155	epigastric discomfort
+10040752	sinus tachycardia
+10043528	throat tightness
+10020850	hyperthyroidism
+10007763	cataract specified
+10010106	common cold
+10056265	allergic contact dermatitis
+10039203	road traffic accident
+10037868	rash maculo-papular
+10029425	nitrogen balance negative
+10008612	cholecystitis
+10038867	retinal haemorrhage
+10013864	duodenitis
+10036784	proctocolitis
+10037844	rash
+10043563	thrombocytosis
+10019942	herpes labialis
+10064579	exfoliative rash
+10003119	arrhythmia
+10020903	hyperuricaemia
+10025482	malaise
+10051077	post procedural haemorrhage
+10013946	dyspepsia
+10001598	alcohol intolerance
+10015963	eye redness
+10029161	nephrosis
+10020583	hypercalcaemia
+10018001	gastrointestinal perforation
+10013709	drug ineffective
+10000081	abdominal pain
+10019326	heartburn
+10048232	yawning
+10059159	congenital eye disorder
+10002424	angioedema
+10028631	myoglobin urine present
+10037250	psychotic depression
+10038853	retinal disorder
+10005063	bladder pain
+10050584	contusion
+10015627	excitement
+10050819	musculoskeletal chest pain
+10029412	nightmare
+10005750	blood pressure increased
+10013911	dysgeusia
+10037383	pulmonary fibrosis
+10040810	skin carcinoma
+10015958	eye pain
+10021013	hypohidrosis
+10068286	anorectal discomfort
+10008469	chest discomfort
+10013754	drug withdrawal syndrome
+10003671	atrioventricular block
+10061406	cardiac valve disease
+10001540	akathisia
+10015832	extrapyramidal disorder
+10016100	faeces discoloured
+10005148	blepharitis
+10014893	enterocolitis
+10034754	petechiae
+10013990	dysuria
+10030124	oedema peripheral
+10003497	asphyxia
+10045542	unintended pregnancy
+10055798	haemorrhage
+10067152	oral herpes
+10015226	erythema nodosum
+10052576	pruritus generalised
+10022078	injection site inflammation
+10030300	oligospermia
+10027199	meningitis
+10002652	anorgasmia
+10027566	micturition urgency
+10007697	carpal tunnel syndrome
+10061217	infestation
+10013887	dysarthria
+10021097	hypotension
+10015137	eructation
+10061666	autonomic neuropathy
+10028740	nasal dryness
+10020772	hypertension
+10023929	lassitude
+10022806	intraocular pressure increased
+10034972	photosensitivity reaction
+10012239	delusion
+10042241	stridor
+10008393	change in blood pressure
+10040902	skin nodule
+10040026	sensory disturbance
+10013789	dry throat
+10028629	myoglobinuria
+10024690	liver function test abnormal
+10061216	infarction
+10048961	localised oedema
+10022437	insomnia
+10011793	cystitis haemorrhagic
+10022955	iritis
+10042496	sunburn
+10000380	accidental injury
+10021137	hypovolaemia
+10029328	neuropathy
+10061529	polyp
+10000057	abdominal cramps
+10019009	haemorrhagic disorder
+10012442	dermatitis contact
+10017853	gastritis
+10024421	libido increased
+10042458	suicidal ideation
+10005851	blood urea increased
+10003210	arteriosclerosis
+10001763	alopecia reversible
+10012422	derealisation
+10045825	unspecified disorder of skin and subcutaneous tissue
+10047531	visual acuity reduced
+10016807	fluid retention
+10013971	dyspnoea exertional
+10028034	mouth ulceration
+10030910	optic atrophy
+10020578	hyperbilirubinaemia
+10033071	otitis
+10053156	musculoskeletal discomfort
+10060945	bacterial infection
+10022617	interstitial pneumonia
+10024419	libido decreased
+10003694	atrophy
+10043089	tachypnoea
+10014387	electrocardiogram qt prolonged
+10038980	retroperitoneal haemorrhage
+10005287	blood albumin decreased
+10039020	rhabdomyolysis
+10018836	haematochezia
+10022972	iron deficiency anaemia
+10018800	gynaecomastia
+10037400	pulmonary hypertension
+10051788	sticky skin
+10058929	disturbance in sexual arousal
+10011349	creatine phosphokinase increased
+10042727	swollen tongue
+10015090	epistaxis
+10013952	dysphonia
+10029333	neurosis
+10021009	hypoglycemic reaction
+10061218	inflammation
+10010726	conjunctival oedema
+10043248	tendon rupture
+10041469	speech impairment nos
+10008072	cerebellar syndrome
+10003550	asthenic conditions
+10012335	dependence
+10043255	tendonitis
+10044314	tracheobronchitis
+10003481	aspartate aminotransferase increased
+10040882	skin lesion
+10031264	osteonecrosis
+10006002	bone pain
+10024377	leukocytoclastic vasculitis
+10037032	proteinuria
+10024570	lip swelling
+10043949	tongue discolouration
+10037087	pruritus
+10043126	taste altered
+10042128	stomatitis
+10047115	vasculitis
+10001052	acute respiratory distress syndrome
+10048908	seasonal allergy
+10015683	exophthalmos
+10051055	deep vein thrombosis
+10028330	muscle rigidity
+10049187	red blood cell sedimentation rate increased
+10037876	rash papular
+10020679	hypernatraemia
+10043709	thyroid disorder
+10036772	proctalgia
+10067621	oral disorder
+10061461	erectile dysfunction
+10022714	intestinal ulcer
+10021403	illusion
+10009848	cogwheel rigidity
+10047784	vulvovaginal candidiasis
+10013266	disorder sight
+10020947	hypocalcaemia
+10029410	night sweats
+10019049	hair texture abnormal
+10004073	balanitis
+10013951	dysphasia
+10028851	necrosis
+10047794	vulvovaginitis
+10043880	tingling sensation
+10047571	visual impairment
+10061255	ischaemia

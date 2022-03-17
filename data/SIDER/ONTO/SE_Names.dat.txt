@@ -1,0 +1,1472 @@
+                   abdominal cramps	0.07
+                     abdominal pain	0.61
+              gastrointestinal pain	0.58
+                          amblyopia	0.09
+                            anaemia	0.40
+                           anorexia	0.49
+                 decreased appetite	0.53
+                            anxiety	0.42
+                         arrhythmia	0.32
+                           asthenia	0.68
+                atrial fibrillation	0.17
+                          back pain	0.36
+                         bronchitis	0.23
+            cardiovascular disorder	0.10
+                         chest pain	0.42
+                          infection	0.43
+                       constipation	0.54
+                              cough	0.42
+                         depression	0.26
+                          diarrhoea	0.71
+                          dizziness	0.77
+                          dysgeusia	0.35
+                          dyspepsia	0.53
+                           dyspnoea	0.53
+                               rash	0.80
+                         dermatitis	0.80
+                       eye disorder	0.31
+         body temperature increased	0.59
+                          gastritis	0.21
+          gastrointestinal disorder	0.54
+                           headache	0.83
+                        haemorrhage	0.29
+                        haemoglobin	0.29
+                     hypercalcaemia	0.07
+                      hyperkalaemia	0.12
+                   hypersensitivity	0.68
+                       hypertension	0.43
+                        hypotension	0.50
+                          influenza	0.22
+        cramps of lower extremities	0.13
+                      muscle spasms	0.36
+                            melaena	0.13
+                         hypertonia	0.14
+                             nausea	0.88
+                               pain	0.56
+                       palpitations	0.40
+                       paraesthesia	0.51
+                        pharyngitis	0.31
+                           pruritus	0.70
+                      renal failure	0.26
+                           rhinitis	0.30
+                         convulsion	0.41
+                          sinusitis	0.28
+                        tachycardia	0.47
+            urinary tract infection	0.26
+                         angiopathy	0.33
+                            vertigo	0.40
+                           vomiting	0.80
+                   weight increased	0.25
+                   weight decreased	0.24
+                          body odor	0.02
+                skin odour abnormal	0.03
+                  oedema peripheral	0.31
+            injection site reaction	0.13
+                  accidental injury	0.11
+                             injury	0.17
+          impaired gastric emptying	0.01
+                            myalgia	0.44
+         musculoskeletal discomfort	0.51
+       gastrointestinal symptom nos	0.06
+         electrocardiogram abnormal	0.07
+                     fluid overload	0.03
+                           insomnia	0.52
+                         myasthenia	0.07
+                  muscular weakness	0.23
+                    drug dependence	0.03
+                 anaphylactic shock	0.47
+                         angioedema	0.40
+                          urticaria	0.61
+                injection site pain	0.10
+                            aphasia	0.07
+                    mental disorder	0.34
+                             oedema	0.44
+                        excoriation	0.03
+                   cardiac disorder	0.32
+                        hemiparesis	0.02
+                     herpes simplex	0.11
+                     hyperaesthesia	0.09
+                      hypoaesthesia	0.29
+                       leukocytosis	0.11
+                           neoplasm	0.13
+            nervous system disorder	0.45
+                        nervousness	0.35
+                            tension	0.35
+                          petechiae	0.10
+          respiratory insufficiency	0.03
+                respiratory failure	0.12
+             seborrhoeic dermatitis	0.07
+                      skin disorder	0.47
+                            sunburn	0.02
+          photosensitivity reaction	0.25
+                   thrombocytopenia	0.49
+                    thromboembolism	0.03
+                           embolism	0.07
+                    embolism venous	0.05
+                              ulcer	0.10
+                           erythema	0.36
+                             chills	0.35
+                      rash pustular	0.09
+          application site reaction	0.05
+gamma-glutamyltransferase increased	0.09
+                   skin hypertrophy	0.03
+aspartate aminotransferase increased	0.21
+ alanine aminotransferase increased	0.20
+                           dry skin	0.19
+                      eyelid oedema	0.04
+             skin hyperpigmentation	0.06
+                         leukoderma	0.04
+unspecified disorder of skin and subcutaneous tissue	0.42
+                               scab	0.02
+                         discomfort	0.45
+                         tenderness	0.09
+                   skin exfoliation	0.13
+                            pustule	0.01
+              hepatobiliary disease	0.27
+          blood bilirubin increased	0.11
+                         induration	0.05
+                   photosensitivity	0.16
+                             warmth	0.03
+                        feeling hot	0.09
+                       dysaesthesia	0.04
+                rash maculo-papular	0.14
+        application site irritation	0.03
+                           stinging	0.09
+                     skin carcinoma	0.02
+                        skin cancer	0.03
+                               acne	0.10
+                    infestation nos	0.24
+                        infestation	0.24
+blood and lymphatic system disorders	0.27
+            blood amylase increased	0.01
+                  amylase increased	0.05
+                     hyperkeratosis	0.02
+                       brain oedema	0.03
+                           alopecia	0.35
+                      extravasation	0.09
+                            fatigue	0.53
+                           lethargy	0.17
+                         leukopenia	0.41
+                         stomatitis	0.28
+                           wheezing	0.13
+                            malaise	0.40
+                   feeling abnormal	0.58
+               ill-defined disorder	0.39
+             anaphylactoid reaction	0.19
+         serum creatinine increased	0.06
+         blood creatinine increased	0.18
+                febrile neutropenia	0.07
+                      sensitisation	0.03
+                renal failure acute	0.16
+                            syncope	0.40
+              loss of consciousness	0.41
+                              shock	0.46
+                  confusional state	0.44
+           kidney function abnormal	0.05
+                   renal impairment	0.17
+               abdominal pain upper	0.20
+               abdominal pain lower	0.03
+               abdominal tenderness	0.02
+                disease progression	0.02
+                             rigors	0.10
+                         neuropathy	0.14
+              neuropathy peripheral	0.27
+                         arthralgia	0.43
+                             asthma	0.22
+                       bronchospasm	0.23
+                        dehydration	0.19
+disseminated intravascular coagulation	0.04
+                           flushing	0.33
+                     cardiac arrest	0.18
+                            hiccups	0.12
+             immune system disorder	0.35
+                       inflammation	0.12
+                         laryngitis	0.08
+                       cramp muscle	0.22
+              myocardial infarction	0.25
+            acute coronary syndrome	0.25
+                          pregnancy	0.06
+                          shivering	0.03
+                             tremor	0.38
+               vaginal inflammation	0.12
+                  vaginal infection	0.13
+                bronchoconstriction	0.02
+                  urinary retention	0.20
+                     neck stiffness	0.05
+          musculoskeletal stiffness	0.11
+                    nuchal rigidity	0.06
+                           eye pain	0.17
+                skin discolouration	0.11
+                    chest tightness	0.05
+                   chest discomfort	0.11
+                  breast tenderness	0.03
+                     vision blurred	0.37
+                         presyncope	0.03
+                         stillbirth	0.01
+                          hot flush	0.17
+                menopausal symptoms	0.17
+                 sweating increased	0.23
+                      hyperhidrosis	0.47
+                   hearing impaired	0.11
+                           deafness	0.16
+                          arthritis	0.18
+                            ascites	0.04
+                         cellulitis	0.10
+                          neck pain	0.12
+         connective tissue disorder	0.28
+                           cyanosis	0.08
+                             eczema	0.16
+                 endocrine disorder	0.10
+                          epistaxis	0.27
+                         flatulence	0.34
+                    cardiac failure	0.17
+                         haematuria	0.26
+                    hyperthyroidism	0.04
+            orthostatic hypotension	0.20
+               mediastinal disorder	0.32
+               musculoskeletal pain	0.12
+                             pallor	0.10
+                       pancytopenia	0.24
+                   pleural effusion	0.09
+                          pneumonia	0.26
+                       pneumothorax	0.05
+                   pulmonary oedema	0.15
+                 pulmonary embolism	0.12
+                         septicemia	0.02
+                             sepsis	0.14
+                         skin ulcer	0.09
+                       splenomegaly	0.03
+                           sweating	0.27
+                             thirst	0.17
+                       vasodilation	0.11
+             vasodilation procedure	0.11
+                          dry mouth	0.44
+       peripheral vascular disorder	0.05
+                    hepatic failure	0.18
+                          agitation	0.38
+                          lassitude	0.02
+               abdominal discomfort	0.22
+                    abdominal colic	0.01
+                        pain in jaw	0.03
+                            hypoxia	0.07
+                 rectal haemorrhage	0.11
+               psychotic depression	0.02
+                   major depression	0.02
+                enlargement abdomen	0.06
+               abdominal distension	0.22
+            influenza-like symptoms	0.08
+             influenza like illness	0.13
+           platelet count decreased	0.07
+                       hyperkinesia	0.15
+                        bradycardia	0.28
+              application site pain	0.04
+             instillation site pain	0.03
+         catheter related infection	0.01
+           device related infection	0.02
+            procedural complication	0.01
+                         somnolence	0.54
+                           acidosis	0.05
+                     hypernatraemia	0.05
+                     corneal oedema	0.02
+                    corneal opacity	0.02
+                             apnoea	0.10
+             atrioventricular block	0.12
+                         drowsiness	0.26
+                   hyperventilation	0.08
+                   nasal congestion	0.16
+                           numbness	0.09
+                       sensory loss	0.10
+     supraventricular extrasystoles	0.03
+                            scotoma	0.09
+           cerebrovascular accident	0.17
+                  sinus tachycardia	0.04
+                           tinnitus	0.33
+                 torsade de pointes	0.07
+           ventricular fibrillation	0.09
+            ventricular tachycardia	0.12
+                micturition urgency	0.06
+                        pollakiuria	0.24
+             ventricular arrhythmia	0.08
+atrioventricular block first degree	0.03
+                  burning sensation	0.08
+                        mood swings	0.18
+                    affect lability	0.17
+    atrioventricular block complete	0.03
+          ventricular extrasystoles	0.11
+           haemorrhage intracranial	0.04
+    intracranial pressure increased	0.04
+               myocardial ischaemia	0.09
+                 respiratory arrest	0.04
+                     fatal outcomes	0.07
+                    lightheadedness	0.13
+                      extrasystoles	0.10
+                       apprehension	0.02
+                       excitability	0.01
+                   throat tightness	0.04
+                     taste metallic	0.03
+atrioventricular block second degree	0.03
+              tonic-clonic seizures	0.03
+               grand mal convulsion	0.05
+           blood pressure increased	0.11
+electrocardiogram st segment depression	0.02
+                       sinus arrest	0.02
+                     ear discomfort	0.01
+        gastrointestinal discomfort	0.02
+            coronary artery disease	0.04
+                 tingling sensation	0.08
+                            abscess	0.08
+    central nervous system disorder	0.01
+                               coma	0.14
+         cardiac failure congestive	0.15
+                         haemolysis	0.02
+                       hypokalaemia	0.19
+                       irritability	0.18
+                           necrosis	0.08
+                          phlebitis	0.12
+                         salivation	0.04
+            salivary hypersecretion	0.13
+                   thrombophlebitis	0.16
+                  venous thrombosis	0.03
+                        lacrimation	0.06
+              lacrimation increased	0.11
+                    water retention	0.01
+                    fluid retention	0.12
+                hypochromic anaemia	0.03
+                             anuria	0.03
+                          balanitis	0.01
+                         ecchymosis	0.15
+                           fibrosis	0.03
+                           fracture	0.06
+                 multiple fractures	0.06
+                          haematoma	0.07
+                hyperbilirubinaemia	0.11
+              hypercholesterolaemia	0.12
+                         hyperaemia	0.03
+                     hyperglycaemia	0.26
+              hypertriglyceridaemia	0.06
+      blood triglycerides increased	0.07
+                      hypoglycaemia	0.18
+         body temperature decreased	0.05
+                        hypothermia	0.05
+                           leg pain	0.04
+                  pain in extremity	0.18
+                          mydriasis	0.09
+                             nodule	0.03
+                        pelvic pain	0.06
+                     penis disorder	0.01
+                 peyronie's disease	0.01
+                        peritonitis	0.02
+                           priapism	0.05
+                 prostatic disorder	0.04
+                        prostatitis	0.02
+                           swelling	0.15
+       supraventricular tachycardia	0.07
+                testicular disorder	0.01
+                    testicular pain	0.02
+  upper respiratory tract infection	0.24
+                  urethral disorder	0.29
+                         laceration	0.02
+                             trauma	0.05
+            injection site swelling	0.02
+                     scrotal oedema	0.01
+         injection site haemorrhage	0.02
+        injection site inflammation	0.03
+                         tachypnoea	0.03
+             respiratory depression	0.08
+  pulmonary function test decreased	0.08
+                           diabetic	0.03
+                  diabetes mellitus	0.15
+                            redness	0.08
+                          stiffness	0.04
+               respiratory distress	0.07
+                      tooth abscess	0.04
+                    feeling jittery	0.03
+                   fungal infection	0.09
+                   drug ineffective	0.01
+          application site pruritus	0.02
+                     local reaction	0.06
+            hypotension symptomatic	0.01
+                       flu symptoms	0.01
+                      regurgitation	0.02
+               abnormal ejaculation	0.03
+               ejaculation disorder	0.04
+               cerebral haemorrhage	0.05
+                    abnormal vision	0.14
+                  visual impairment	0.31
+                     edema cerebral	0.01
+                            choking	0.02
+                      skin necrosis	0.04
+                       rash macular	0.03
+              surgical intervention	0.02
+                            surgery	0.02
+                  paraesthesia oral	0.05
+                          glossitis	0.12
+               personality disorder	0.04
+                  sleep disturbance	0.06
+                     sleep disorder	0.16
+                     tooth disorder	0.08
+               urinary incontinence	0.13
+             urinary tract disorder	0.29
+                       malnutrition	0.33
+                      upset stomach	0.07
+                          bad taste	0.03
+          distress gastrointestinal	0.02
+                           delirium	0.10
+                          vasospasm	0.03
+                             stupor	0.08
+   depressed level of consciousness	0.12
+                    agranulocytosis	0.28
+                   aplastic anaemia	0.14
+                      enterocolitis	0.03
+                     blood disorder	0.10
+                          leukaemia	0.02
+                           neuritis	0.09
+             bone marrow depression	0.07
+                  ocular hyperaemia	0.04
+                    endophthalmitis	0.04
+                     rash vesicular	0.01
+                     eye irritation	0.10
+                       eye swelling	0.03
+               respiratory disorder	0.01
+          reaction gastrointestinal	0.04
+                   drug interaction	0.11
+            conjunctival hyperaemia	0.04
+                 reflux esophagitis	0.01
+   gastrooesophageal reflux disease	0.11
+                           jaundice	0.28
+                        skin lesion	0.02
+            transaminases increased	0.07
+                      hypocalcaemia	0.10
+                             apathy	0.08
+                        flat affect	0.08
+                     slurred speech	0.04
+                         dysarthria	0.11
+                        qrs complex	0.01
+      electrocardiogram qrs complex	0.01
+                       intoxication	0.02
+                          poisoning	0.02
+            blood calcium decreased	0.02
+                 hepatic impairment	0.02
+                     liver disorder	0.08
+                       loose stools	0.06
+  gastrointestinal tract irritation	0.03
+       gastrointestinal haemorrhage	0.17
+                      hyponatraemia	0.17
+                     duodenal ulcer	0.04
+                erythema multiforme	0.32
+                       oesophagitis	0.14
+                      hallucination	0.33
+                          heartburn	0.07
+                          hepatitis	0.31
+                      gastric ulcer	0.06
+                    epigastric pain	0.05
+              localized exfoliation	0.02
+                     skin papilloma	0.02
+                         aggression	0.10
+              drug hypersensitivity	0.04
+                     osteoarthritis	0.18
+                            paresis	0.04
+                 psychotic disorder	0.18
+                      hyperreflexia	0.05
+                     disorientation	0.14
+               neurological symptom	0.03
+                        amenorrhoea	0.10
+                            amnesia	0.17
+                              anger	0.03
+                             ataxia	0.21
+                 bipolar i disorder	0.01
+                      breast cancer	0.03
+                    breast disorder	0.20
+                            bruxism	0.02
+                           bursitis	0.05
+               basal cell carcinoma	0.02
+             carpal tunnel syndrome	0.02
+                     pleuritic pain	0.02
+                    chest wall pain	0.01
+         musculoskeletal chest pain	0.03
+                            colitis	0.13
+                     conjunctivitis	0.27
+                          contusion	0.10
+                           cystitis	0.12
+              cystitis noninfective	0.12
+                       bladder pain	0.13
+                               cyst	0.06
+                   libido decreased	0.17
+      disturbance in sexual arousal	0.19
+                          dysphagia	0.21
+                           delusion	0.08
+                      dental caries	0.04
+                  depersonalisation	0.08
+             dermatitis exfoliative	0.18
+                  dermatitis atopic	0.08
+                           diplopia	0.18
+                         drug abuse	0.03
+                         dyskinesia	0.11
+                      dysmenorrhoea	0.11
+                            dysuria	0.24
+                           ear pain	0.15
+                           enuresis	0.03
+                         eructation	0.13
+            extrapyramidal disorder	0.09
+                         flank pain	0.03
+                  vitreous floaters	0.02
+                    cardiac flutter	0.01
+                       folliculitis	0.07
+                    gastroenteritis	0.16
+                  gingival bleeding	0.06
+                         gingivitis	0.09
+             angle closure glaucoma	0.02
+                         glycosuria	0.10
+                      gynaecomastia	0.14
+                       breath odour	0.03
+                   seasonal allergy	0.02
+                  rhinitis seasonal	0.02
+                        hepatitis c	0.01
+                      herpes zoster	0.09
+             herpes virus infection	0.02
+                          hirsutism	0.06
+                          hordeolum	0.01
+                          hostility	0.06
+  type iv hypersensitivity reaction	0.01
+              hypertrophy of breast	0.02
+                 breast enlargement	0.07
+inappropriate antidiuretic hormone secretion	0.07
+                   libido increased	0.06
+             intestinal perforation	0.03
+                            dry eye	0.13
+                          menopause	0.02
+                 menstrual disorder	0.08
+                       metrorrhagia	0.07
+                    motion sickness	0.01
+                          hypotonia	0.06
+            muscle relaxant therapy	0.05
+                    muscle rigidity	0.05
+           musculoskeletal disorder	0.03
+                          myoclonus	0.07
+                    nasopharyngitis	0.20
+                          neuralgia	0.08
+                       night sweats	0.05
+                          nightmare	0.13
+                           nocturia	0.11
+                       osteoporosis	0.06
+                       ovarian cyst	0.02
+                   ovarian disorder	0.01
+                       pancreatitis	0.24
+                     panic reaction	0.02
+                              polyp	0.06
+                           polyuria	0.16
+             urine output increased	0.14
+              premenstrual syndrome	0.01
+                            prurigo	0.04
+                   tension headache	0.01
+                        hyperacusis	0.04
+        respiratory tract infection	0.07
+                     rhabdomyolysis	0.11
+                           sciatica	0.03
+          pharyngitis streptococcal	0.01
+                     serum sickness	0.05
+                     sinus headache	0.03
+                           sneezing	0.07
+                            snoring	0.01
+                       somnambulism	0.02
+           stevens-johnson syndrome	0.27
+                            suicide	0.05
+                  completed suicide	0.06
+                    suicide attempt	0.06
+                    taste disorders	0.03
+                         tendonitis	0.04
+                        tonsillitis	0.02
+                          toothache	0.07
+               micturition disorder	0.03
+                    wound infection	0.02
+                            yawning	0.04
+                           akinesia	0.03
+                        photophobia	0.13
+                 depressive symptom	0.02
+                        hypokinesia	0.07
+          hepatic function abnormal	0.16
+                       panic attack	0.03
+                 withdrawal symptom	0.04
+           drug withdrawal syndrome	0.05
+                   mouth ulceration	0.14
+                           migraine	0.18
+                      swelling face	0.04
+                      tongue oedema	0.06
+                    tongue disorder	0.08
+      electroencephalogram abnormal	0.02
+                   impaired healing	0.04
+              hepatocellular injury	0.13
+                       liver injury	0.10
+                    manic psychosis	0.04
+                              mania	0.08
+                      urethral pain	0.01
+                  paranoid reaction	0.04
+                           paranoia	0.07
+                    tendon disorder	0.02
+                sensory disturbance	0.03
+                   sinus congestion	0.05
+                    skin irritation	0.05
+                     joint swelling	0.05
+                    viral diarrhoea	0.02
+             menstruation irregular	0.06
+                    joint stiffness	0.03
+                          oral pain	0.02
+                   muscle twitching	0.12
+                      nasal dryness	0.04
+                         cold sweat	0.04
+                 digestion impaired	0.08
+                 increased appetite	0.17
+           disturbance in attention	0.11
+                          dysphoria	0.04
+                       bradykinesia	0.01
+                  thinking abnormal	0.11
+                  mental disability	0.15
+                      derealisation	0.01
+                  memory impairment	0.09
+                    abnormal dreams	0.12
+     intraocular pressure increased	0.05
+                  rash erythematous	0.08
+    muscle contractions involuntary	0.05
+                      euphoric mood	0.14
+                 poor quality sleep	0.01
+               cerebration impaired	0.07
+                     hepatotoxicity	0.09
+           hepatic enzyme increased	0.12
+                     swollen tongue	0.03
+               heart rate irregular	0.02
+                      gingival pain	0.02
+           frequent bowel movements	0.02
+                          hypomania	0.03
+               pulmonary congestion	0.03
+       respiratory tract congestion	0.04
+               erectile dysfunction	0.25
+                       parkinsonism	0.04
+                       nerve injury	0.02
+                peripheral coldness	0.05
+                     depressed mood	0.04
+                          akathisia	0.06
+                 gastric irritation	0.03
+              epigastric discomfort	0.05
+                          shakiness	0.01
+                   initial insomnia	0.01
+                    middle insomnia	0.01
+       increased tendency to bruise	0.01
+                  suicidal ideation	0.07
+               respiration abnormal	0.01
+                       joint sprain	0.01
+                    ligament sprain	0.02
+                hair colour changes	0.01
+               pruritus generalised	0.03
+                    lymphadenopathy	0.15
+              coordination abnormal	0.13
+                 hypoaesthesia oral	0.03
+                        face oedema	0.20
+                 visual disturbance	0.17
+     altered state of consciousness	0.05
+     vulvovaginal mycotic infection	0.05
+                 sexual dysfunction	0.06
+                            lip dry	0.01
+                         renal pain	0.05
+                    cough increased	0.12
+             sensation of heaviness	0.01
+                 tardive dyskinesia	0.04
+                      ear infection	0.04
+                  throat irritation	0.05
+        ear and labyrinth disorders	0.17
+             pharyngolaryngeal pain	0.08
+                     laryngeal pain	0.08
+                    tooth infection	0.01
+                    procedural pain	0.03
+                   muscle tightness	0.02
+                        hypersomnia	0.03
+                        rhinorrhoea	0.09
+                        dyspareunia	0.01
+                           parosmia	0.07
+                    appetite absent	0.05
+                testicular swelling	0.02
+                vaginal haemorrhage	0.09
+                 congenital anomaly	0.03
+                developmental delay	0.03
+                bacterial infection	0.04
+                        blepharitis	0.06
+                           clotting	0.02
+                       coagulopathy	0.08
+                      bone disorder	0.10
+                 neoplasm malignant	0.10
+                  candida infection	0.13
+                 vaginal moniliasis	0.05
+           vulvovaginal candidiasis	0.05
+         transient ischaemic attack	0.05
+           cerebrovascular disorder	0.04
+                      cholecystitis	0.06
+                     cholelithiasis	0.06
+                             chorea	0.01
+                        common cold	0.02
+                 dermatitis contact	0.13
+                     diverticulitis	0.03
+                       ear disorder	0.05
+                 emotional disorder	0.02
+                           epilepsy	0.04
+                   erythema nodosum	0.04
+                      eye infection	0.02
+         fibrocystic breast disease	0.01
+               gallbladder disorder	0.01
+                             goitre	0.03
+                        haemoptysis	0.09
+                       haemorrhoids	0.07
+                       incontinence	0.03
+             intestinal obstruction	0.07
+               jaundice cholestatic	0.11
+                        arthropathy	0.11
+                         leukorrhea	0.05
+                  vaginal discharge	0.06
+                        breast pain	0.10
+                           chloasma	0.01
+                        menorrhagia	0.09
+                      nail disorder	0.07
+                     optic neuritis	0.06
+                       otitis media	0.09
+      porphyrin metabolism disorder	0.02
+                      anal pruritus	0.01
+                   pruritus genital	0.04
+               anorectal discomfort	0.06
+                            purpura	0.18
+                   vascular purpura	0.17
+                  pigmentation skin	0.02
+              pigmentation disorder	0.04
+                         thrombosis	0.08
+                  uterine leiomyoma	0.02
+                uterine haemorrhage	0.03
+              vulvovaginal pruritus	0.01
+                      varicose vein	0.03
+                    viral infection	0.11
+                     disorder sight	0.05
+                     vulvovaginitis	0.01
+                 breast engorgement	0.01
+                   breast discharge	0.01
+               deep vein thrombosis	0.07
+        glucose tolerance decreased	0.01
+       liver function test abnormal	0.21
+                          bone pain	0.12
+     phosphatase alkaline increased	0.13
+blood alkaline phosphatase increased	0.16
+            porphyria cutanea tarda	0.01
+                porphyria non-acute	0.01
+        allergic contact dermatitis	0.03
+                               ache	0.05
+                         dry throat	0.04
+       thrombophlebitis superficial	0.01
+                      galactorrhoea	0.07
+                          leg edema	0.02
+                       pain of skin	0.02
+                    hepatitis acute	0.01
+         glucose tolerance impaired	0.02
+                           eruption	0.07
+                             papule	0.01
+                genital candidiasis	0.01
+             exacerbation of asthma	0.02
+                          blindness	0.06
+                 endometrial cancer	0.01
+                           dementia	0.04
+                   rash generalised	0.04
+              application site rash	0.02
+         toxicity to various agents	0.02
+                 breast pain female	0.01
+                       bradyphrenia	0.01
+                   gait disturbance	0.12
+                               mass	0.01
+          application site erythema	0.02
+                     local swelling	0.03
+        raised liver function tests	0.05
+                     ovarian cancer	0.01
+           change in blood pressure	0.01
+         blood pressure fluctuation	0.02
+                 abdominal bloating	0.04
+                    breast neoplasm	0.03
+                mood alteration nos	0.01
+                     loss of libido	0.05
+                    angina pectoris	0.22
+                           diuresis	0.03
+                      lung disorder	0.07
+                   oral candidiasis	0.08
+                           retching	0.03
+                        glossodynia	0.03
+                          nephrosis	0.02
+                 nephrotic syndrome	0.05
+           staphylococcal infection	0.01
+               condition aggravated	0.02
+                   productive cough	0.02
+                        pain in arm	0.01
+                        throat sore	0.08
+           oropharyngeal discomfort	0.08
+                 oropharyngeal pain	0.11
+                       hypovolaemia	0.03
+       obstructive airways disorder	0.02
+              electrolyte imbalance	0.04
+                     lung infection	0.01
+                          dysphonia	0.09
+                           myopathy	0.08
+                           myositis	0.05
+               blood urea increased	0.12
+   creatine phosphokinase increased	0.06
+blood creatine phosphokinase increased	0.08
+               peripheral ischaemia	0.04
+                       tearing eyes	0.02
+                            rhonchi	0.01
+                            stridor	0.03
+                    erythema facial	0.01
+                        sticky skin	0.01
+              anaemia megaloblastic	0.03
+                      arachnoiditis	0.02
+                cerebellar syndrome	0.01
+            guillain-barre syndrome	0.02
+                       cardiomegaly	0.03
+                         hemiplegia	0.03
+                          keratitis	0.07
+                          meningism	0.02
+                         meningitis	0.04
+                        neutropenia	0.25
+                         paraplegia	0.01
+                           diplegia	0.01
+                         monoplegia	0.01
+                       pericarditis	0.05
+acute respiratory distress syndrome	0.03
+              tumour lysis syndrome	0.02
+               ureteric obstruction	0.01
+      peripheral sensory neuropathy	0.03
+                  oesophageal ulcer	0.04
+             traumatic liver injury	0.04
+             interstitial pneumonia	0.05
+          interstitial lung disease	0.08
+                      neurotoxicity	0.04
+                 personality change	0.02
+               mucosal inflammation	0.06
+               cognitive impairment	0.02
+                 cognitive disorder	0.04
+          sensation of foreign body	0.03
+                   lipase increased	0.02
+          cardio-respiratory arrest	0.03
+                          hypoxemia	0.01
+                     hyperuricaemia	0.11
+          blood uric acid increased	0.12
+                        memory loss	0.03
+                   myelosuppression	0.05
+                     cardiotoxicity	0.02
+                     cardiomyopathy	0.05
+                 pulmonary toxicity	0.02
+              venoocclusive disease	0.01
+                              ileus	0.08
+                       urine output	0.01
+             vasculitis necrotising	0.02
+                           gangrene	0.02
+                       piloerection	0.01
+                          azotaemia	0.05
+                   prolonged menses	0.02
+                 calculus of kidney	0.07
+                    nephrolithiasis	0.09
+                     pyelonephritis	0.04
+                    rectal tenesmus	0.04
+                         proctalgia	0.05
+                    crohn's disease	0.01
+                     encephalopathy	0.07
+                blindness transient	0.01
+                       eosinophilia	0.24
+                    hyperlipidaemia	0.08
+                   foetor hepaticus	0.06
+                         vasculitis	0.12
+               vesiculobullous rash	0.06
+                 dermatitis bullous	0.17
+                           sickness	0.02
+                          paralysis	0.08
+         cutaneous hypersensitivity	0.02
+                     thrombocytosis	0.07
+                     hypothyroidism	0.07
+            injection site erythema	0.02
+                        albuminuria	0.09
+                          nystagmus	0.08
+                           oliguria	0.10
+                        ototoxicity	0.02
+                  nephropathy toxic	0.07
+                     nephrotoxicity	0.03
+                         drug fever	0.04
+                    lactic acidosis	0.02
+                          ischaemia	0.03
+                        nephropathy	0.05
+                              rales	0.04
+           subarachnoid haemorrhage	0.02
+                    tachyarrhythmia	0.01
+                           coldness	0.01
+                       feeling cold	0.03
+                  basedow's disease	0.02
+                        infertility	0.02
+   benign intracranial hypertension	0.03
+            temperature intolerance	0.01
+                 cns depression nos	0.03
+                        proteinuria	0.11
+              protein urine present	0.11
+                          psoriasis	0.06
+             restless legs syndrome	0.03
+              visual acuity reduced	0.06
+                  tongue ulceration	0.02
+                       oedema mouth	0.01
+           laboratory test abnormal	0.04
+                        cholestasis	0.10
+              fungal skin infection	0.04
+                faecal incontinence	0.06
+                       furunculosis	0.04
+                           furuncle	0.05
+                           glaucoma	0.09
+                               gout	0.11
+                       hepatomegaly	0.08
+                             hernia	0.04
+                   laryngeal oedema	0.07
+                       laryngospasm	0.08
+                       peptic ulcer	0.08
+                 generalised oedema	0.06
+ high density lipoprotein decreased	0.02
+           mucous membrane disorder	0.02
+                  sensation of heat	0.01
+             skin burning sensation	0.02
+                     macular oedema	0.02
+                sensation of warmth	0.03
+            blood glucose increased	0.05
+                arterial thrombosis	0.02
+                aphthous stomatitis	0.05
+                            blister	0.08
+                    herpes labialis	0.01
+                        oral herpes	0.02
+                         hoarseness	0.04
+              ulcerative stomatitis	0.05
+                withdrawal syndrome	0.04
+                   thyroid disorder	0.02
+                    abnormal faeces	0.03
+                  motor dysfunction	0.01
+                   nasal irritation	0.01
+                   nasal discomfort	0.03
+                    oral discomfort	0.01
+                         dependence	0.03
+                           asphyxia	0.01
+                  retrosternal pain	0.03
+             nephritis interstitial	0.08
+       tubulointerstitial nephritis	0.09
+                 haemolytic anaemia	0.17
+       systemic lupus erythematosus	0.07
+                    night blindness	0.02
+                            uveitis	0.03
+            dermatitis psoriasiform	0.01
+           thrombocytopenic purpura	0.05
+                 cerebral ischaemia	0.05
+                   exfoliative rash	0.01
+         toxic epidermal necrolysis	0.22
+               partial hearing loss	0.02
+        haemolytic uraemic syndrome	0.02
+                      lichen planus	0.01
+                  myasthenia gravis	0.02
+                      optic atrophy	0.01
+thrombotic thrombocytopenic purpura	0.02
+                             uremia	0.02
+idiopathic thrombocytopenic purpura	0.01
+       acute interstitial nephritis	0.01
+                fixed drug eruption	0.02
+                      drug eruption	0.07
+                         excitement	0.05
+               cutaneous vasculitis	0.02
+                lupus erythematosus	0.04
+                           dystonia	0.01
+                lupus-like syndrome	0.02
+            bleeding time prolonged	0.02
+        post procedural haemorrhage	0.02
+                        hepatitis b	0.01
+                multi-organ failure	0.03
+             non-cardiac chest pain	0.01
+                     breast feeding	0.03
+                bundle branch block	0.06
+                          carcinoma	0.03
+                 colitis ulcerative	0.02
+                      proctocolitis	0.02
+                       haematemesis	0.08
+                      haematochezia	0.04
+                 subdural haematoma	0.02
+                 hepatosplenomegaly	0.01
+               keratoconjunctivitis	0.02
+                  lacrimal disorder	0.05
+       lacrimal structural disorder	0.03
+                 meningitis aseptic	0.03
+                          nephritis	0.03
+                       papilloedema	0.03
+                abscess periodontal	0.02
+             pulmonary eosinophilia	0.02
+                             pyuria	0.03
+                    rectal disorder	0.05
+                 anorectal disorder	0.05
+                          scleritis	0.01
+                      alcohol abuse	0.02
+                           cataract	0.12
+               necrolysis epidermal	0.02
+                          skin mass	0.03
+          white blood cell disorder	0.01
+                 metabolic acidosis	0.04
+                       stomach ache	0.04
+                  urine abnormality	0.05
+            urine analysis abnormal	0.06
+                   carcinoma breast	0.01
+             renal tubular necrosis	0.03
+                        bacteraemia	0.02
+                           cachexia	0.02
+                   localised oedema	0.02
+                     cardiac murmur	0.03
+                         herpes nos	0.01
+                         infarction	0.03
+                        lymphopenia	0.05
+           myelodysplastic syndrome	0.02
+            opportunistic infection	0.04
+                 pulmonary fibrosis	0.05
+                       septic shock	0.03
+                     skin infection	0.03
+                     polyneuropathy	0.03
+             breath sounds abnormal	0.02
+                dyspnoea exertional	0.03
+        peripheral motor neuropathy	0.01
+                  lung infiltration	0.05
+             infusion site reaction	0.01
+                        azoospermia	0.02
+                          faecalith	0.02
+                          faecaloma	0.02
+                     hydronephrosis	0.01
+                   hypoproteinaemia	0.03
+            acute myeloid leukaemia	0.01
+                    acute leukaemia	0.03
+                        lymphoedema	0.02
+                           mastitis	0.02
+                        myocarditis	0.02
+                       oligospermia	0.02
+               pericardial effusion	0.04
+                          proctitis	0.02
+                  cardiogenic shock	0.02
+                        skin nodule	0.02
+                        onycholysis	0.01
+                 hyperphosphataemia	0.02
+                  hypophosphataemia	0.06
+              cystitis haemorrhagic	0.01
+               creatinine increased	0.11
+             diarrhoea haemorrhagic	0.03
+                    hypomagnesaemia	0.07
+lactic dehydrogenase activity increased	0.06
+blood lactate dehydrogenase increased	0.07
+        prothrombin level increased	0.04
+                       hyporeflexia	0.05
+           red blood cell disorders	0.02
+                     pseudolymphoma	0.01
+                   bullous eruption	0.04
+          bilirubin total increased	0.01
+                alopecia reversible	0.02
+                 neutropenic sepsis	0.01
+          gastrointestinal toxicity	0.01
+                       rash papular	0.03
+   pneumocystis jirovecii pneumonia	0.01
+radiation recall reaction (dermatologic)	0.01
+                  recall phenomenon	0.01
+             venous thromboembolism	0.02
+                            ageusia	0.09
+                metastatic neoplasm	0.02
+                   immunodeficiency	0.01
+               gravitational oedema	0.02
+                secondary infection	0.03
+                        atelectasis	0.03
+                     atrial flutter	0.03
+                cerebral infarction	0.03
+               gingival hyperplasia	0.03
+                    hepatitis toxic	0.01
+                     hypertrichosis	0.04
+                           lymphoma	0.04
+             non-hodgkin's lymphoma	0.04
+                           neurosis	0.04
+                       osteomalacia	0.01
+               pneumonia aspiration	0.02
+                    speech disorder	0.10
+                  sinus bradycardia	0.05
+             circumoral paresthesia	0.03
+              acute hepatic failure	0.02
+                          trembling	0.01
+                   sputum increased	0.02
+      increased bronchial secretion	0.03
+            hypersensitive syndrome	0.01
+drug reaction with eosinophilia and systemic symptoms	0.02
+                      taste altered	0.02
+                       crystalluria	0.02
+                   hepatic necrosis	0.07
+                             myopia	0.02
+              hepatic insufficiency	0.01
+              road traffic accident	0.02
+           conjunctival haemorrhage	0.03
+                    eye haemorrhage	0.05
+                     postnasal drip	0.01
+        upper-airway cough syndrome	0.02
+            infusion site reactions	0.02
+                 hyperlactacidaemia	0.02
+                autoimmune disorder	0.03
+                 dysthymic disorder	0.01
+                 insulin resistance	0.01
+                      lipodystrophy	0.01
+             lipodystrophy acquired	0.02
+              aplasia pure red cell	0.01
+                       buffalo hump	0.02
+                    lipohypertrophy	0.02
+                 fat redistribution	0.01
+                  hepatic steatosis	0.03
+                alveolitis allergic	0.02
+              cardiac valve disease	0.01
+        venoocclusive liver disease	0.01
+          function kidney decreased	0.02
+        prothrombin level decreased	0.02
+          blood potassium decreased	0.03
+                    hypoventilation	0.03
+                      low back pain	0.01
+              hepatitis cholestatic	0.04
+              pulmonary haemorrhage	0.02
+                   hypoalbuminaemia	0.02
+               serum urea increased	0.01
+           cardiac output decreased	0.01
+                          catatonia	0.03
+          intermittent claudication	0.03
+                       eye pruritus	0.04
+                  colitis ischaemic	0.03
+                       vivid dreams	0.01
+             short-term memory loss	0.01
+                       claudication	0.01
+                 pancreatitis acute	0.05
+            nephrosis lower nephron	0.01
+                            trismus	0.03
+                 periorbital oedema	0.04
+                 urinary hesitation	0.04
+                          strangury	0.02
+                hepatitis fulminant	0.02
+                       unsteadiness	0.02
+                   balance disorder	0.05
+                         alveolitis	0.01
+                 serotonin syndrome	0.03
+              mental status changes	0.02
+acute generalised exanthematous pustulosis	0.02
+                cytolytic hepatitis	0.01
+                 infusion site pain	0.01
+       benign prostatic hyperplasia	0.01
+                         polydipsia	0.03
+                 growth retardation	0.02
+                          cheilitis	0.04
+                 muscle contracture	0.01
+                  cardiac tamponade	0.01
+            type i hypersensitivity	0.01
+                neurologic reaction	0.01
+                 punctate keratitis	0.02
+        leukocytoclastic vasculitis	0.05
+              tongue discolouration	0.05
+                epigastric distress	0.04
+               cardiac fibrillation	0.03
+                 emotional distress	0.04
+unspecified disorder of autonomic nervous system	0.02
+               autonomic neuropathy	0.02
+           electrocardiogram change	0.03
+               oesophageal stenosis	0.01
+                      oral disorder	0.02
+                      osteomyelitis	0.02
+                             miosis	0.04
+                             iritis	0.04
+                      lymphocytosis	0.03
+                 status epilepticus	0.02
+               peroneal nerve palsy	0.01
+        allergic cutaneous angiitis	0.03
+         salivary gland enlargement	0.02
+               angiitis necrotising	0.01
+                   muscle stiffness	0.02
+                  rhinitis allergic	0.02
+                hyperprolactinaemia	0.02
+                  muscle spasticity	0.01
+              sleep apnoea syndrome	0.01
+                           hangover	0.02
+            psychomotor retardation	0.01
+                      feeling drunk	0.01
+                       sluggishness	0.01
+                 mental retardation	0.02
+                 affective disorder	0.01
+     neuroleptic malignant syndrome	0.05
+              pathological gambling	0.01
+                  oculogyric crisis	0.03
+                     hypersexuality	0.01
+                           miliaria	0.03
+                     telangiectasia	0.02
+                       skin atrophy	0.03
+                        skin striae	0.03
+                 acneiform eruption	0.02
+               dermatitis acneiform	0.03
+               cataract subcapsular	0.02
+                dermatitis perioral	0.02
+secondary adrenocortical insufficiency	0.02
+                            atrophy	0.03
+        retroperitoneal haemorrhage	0.01
+              speech impairment nos	0.02
+                conjunctival oedema	0.03
+                        hypotensive	0.04
+            unspecified visual loss	0.02
+              adrenal insufficiency	0.02
+              haematocrit decreased	0.04
+                       brain injury	0.01
+                       epididymitis	0.03
+              renal failure chronic	0.03
+               macular degeneration	0.01
+               optic nerve disorder	0.01
+                           pleurisy	0.02
+     electrocardiogram qt prolonged	0.07
+                   corneal deposits	0.01
+                           distress	0.02
+            extrapyramidal symptoms	0.06
+                        keratopathy	0.01
+                   nodal arrhythmia	0.01
+              movements involuntary	0.03
+blood thyroid stimulating hormone increased	0.01
+     foreign body sensation in eyes	0.01
+                  ocular discomfort	0.02
+               lenticular opacities	0.02
+             eosinophilic pneumonia	0.02
+                       sudden death	0.06
+                aggressive reaction	0.02
+                        block heart	0.06
+                    ileus paralytic	0.04
+      antinuclear antibody positive	0.02
+             accommodation disorder	0.06
+                 black hairy tongue	0.02
+               paresthesia of limbs	0.01
+                conduction disorder	0.02
+                       hyperpyrexia	0.03
+                   parotid swelling	0.01
+          parotid gland enlargement	0.02
+electrocardiogram qt corrected interval prolonged	0.02
+chronic obstructive pulmonary disease	0.02
+          bronchial hyperreactivity	0.02
+                      xerophthalmia	0.02
+                 dizziness postural	0.03
+                nail discolouration	0.01
+                      lymphadenitis	0.01
+                  atrial arrhythmia	0.02
+        arrhythmia supraventricular	0.04
+                     superinfection	0.02
+               tooth discolouration	0.01
+      clostridium difficile colitis	0.02
+                 convulsive seizure	0.01
+           pseudomembranous colitis	0.06
+               urine color abnormal	0.02
+                        chromaturia	0.03
+             pulmonary hypertension	0.03
+           henoch-schonlein purpura	0.02
+                 cataract specified	0.01
+                    vaginal dryness	0.01
+               vulvovaginal dryness	0.02
+         cholesterol serum elevated	0.01
+        blood cholesterol increased	0.04
+               thromboembolic event	0.02
+                   high cholesterol	0.01
+                parkinson's disease	0.01
+                      blepharospasm	0.02
+                    eyelid disorder	0.01
+                  syncope vasovagal	0.02
+                 erythema of eyelid	0.02
+                    corneal erosion	0.02
+                      eye discharge	0.02
+                   corneal staining	0.01
+  vital dye staining cornea present	0.01
+                         eye oedema	0.02
+                    angina unstable	0.02
+              haemorrhagic disorder	0.02
+           left ventricular failure	0.01
+                 psoriasis flare-up	0.01
+                          enteritis	0.03
+                   facial paralysis	0.03
+              viith nerve paralysis	0.04
+                      myoglobinuria	0.01
+            myoglobin urine present	0.01
+                      tenosynovitis	0.03
+                        torticollis	0.03
+                      biliary colic	0.02
+                     tendon rupture	0.02
+                      forgetfulness	0.02
+                 malignant melanoma	0.02
+          nitrogen balance negative	0.01
+                      iridocyclitis	0.01
+                      phototoxicity	0.01
+                            anosmia	0.02
+               rheumatoid arthritis	0.03
+            congenital eye disorder	0.02
+                       taste bitter	0.02
+ acquired immunodeficiency syndrome	0.01
+              haemoglobin decreased	0.08
+                      potassium low	0.01
+                         urethritis	0.02
+               ventricular bigeminy	0.02
+ autonomic nervous system imbalance	0.02
+                           hysteria	0.02
+                conversion disorder	0.02
+                       opisthotonus	0.02
+                         hypogeusia	0.01
+                 urination impaired	0.02
+                     blood in stool	0.02
+               hyperadrenocorticism	0.01
+                 cushing's syndrome	0.02
+                          pemphigus	0.02
+             hepatic encephalopathy	0.01
+                methaemoglobinaemia	0.02
+                        heat stroke	0.01
+             blood sodium increased	0.01
+        acute myocardial infarction	0.01
+                         asthenopia	0.01
+                    panophthalmitis	0.02
+           lacrimation abnormal nos	0.02
+       purpura non-thrombocytopenic	0.01
+          abnormal sensation in eye	0.01
+            iron deficiency anaemia	0.02
+                        renal colic	0.01
+                            rosacea	0.02
+                vitreous detachment	0.01
+                        eye redness	0.02
+                anterograde amnesia	0.01
+            blood glucose decreased	0.02
+   white blood cell count decreased	0.05
+           retroperitoneal fibrosis	0.01
+             gastrointestinal ulcer	0.01
+                      osteonecrosis	0.04
+red blood cell sedimentation rate increased	0.02
+                      fasciculation	0.01
+                           sedation	0.01
+                asthenic conditions	0.01
+           irritable bowel syndrome	0.02
+functional gastrointestinal disorder	0.02
+                  cogwheel rigidity	0.02
+                ejaculation delayed	0.02
+                          cytopenia	0.01
+                       hypogonadism	0.01
+                 anxiety depression	0.01
+                          dry cough	0.01
+                    oligomenorrhoea	0.01
+          blood prolactin increased	0.02
+                       lip swelling	0.01
+              application site burn	0.02
+             airway obstruction nos	0.02
+          serum potassium increased	0.01
+          blood potassium increased	0.03
+                 retinal detachment	0.02
+                         osteopenia	0.02
+                    choreoathetosis	0.02
+                 testicular atrophy	0.01
+                lichenoid keratosis	0.01
+                 suicidal behaviour	0.02
+                      labyrinthitis	0.01
+                retinal haemorrhage	0.03
+                              wound	0.01
+                     teratogenicity	0.01
+                      periodontitis	0.01
+              depression aggravated	0.02
+                potassium increased	0.01
+            blood albumin decreased	0.02
+                         disability	0.01
+             consciousness abnormal	0.01
+                        muscle mass	0.01
+                alcohol intolerance	0.03
+                        monocytosis	0.01
+                        blood urine	0.01
+                blood urine present	0.02
+                   acute bronchitis	0.01
+                  tracheobronchitis	0.02
+                     creatinine low	0.02
+         blood creatinine decreased	0.02
+                          synovitis	0.01
+              hypertension worsened	0.02
+activated partial thromboplastin time prolonged	0.01
+                    ophthalmoplegia	0.01
+              iiird nerve paralysis	0.01
+           hepatocellular carcinoma	0.02
+                     hepatic cancer	0.02
+                 glomerulonephritis	0.01
+               unintended pregnancy	0.01
+                  movement disorder	0.03
+                       appendicitis	0.01
+            squamous cell carcinoma	0.02
+               ulcerative keratitis	0.02
+                         duodenitis	0.03
+                           illusion	0.01
+                   retinal disorder	0.03
+                      sialoadenitis	0.02
+                      onychomycosis	0.01
+                urogenital disorder	0.01
+                          photopsia	0.03
+                  platelet disorder	0.01
+                    precordial pain	0.01
+                             crying	0.02
+ electrocardiogram t wave inversion	0.02
+                  protrusion tongue	0.01
+                         xanthopsia	0.01
+                           drooling	0.02
+                          megacolon	0.01
+                 metabolic disorder	0.02
+              hair texture abnormal	0.01
+                     otitis externa	0.03
+creatinine renal clearance decreased	0.01
+                          dysphasia	0.02
+                             tetany	0.02
+             renal tubular disorder	0.01
+posterior reversible encephalopathy syndrome	0.01
+                            obesity	0.02
+                         anorgasmia	0.02
+                     drug tolerance	0.02
+           dependence psychological	0.02
+           dependence physiological	0.02
+                ejaculation failure	0.02
+                 sweating decreased	0.01
+                       hypohidrosis	0.01
+                           aneurysm	0.01
+                   arteriosclerosis	0.01
+                hypertensive crisis	0.03
+                      shoulder pain	0.02
+                        thyroiditis	0.01
+                       tuberculosis	0.01
+international normalised ratio increased	0.01
+                 abnormal behaviour	0.03
+                      hair disorder	0.02
+                         distention	0.01
+                     bladder cancer	0.01
+                       exophthalmos	0.02
+                vestibular disorder	0.01
+                 faeces discoloured	0.01
+                  pharyngeal oedema	0.02
+                             otitis	0.01
+  lower respiratory tract infection	0.03
+                        liver fatty	0.01
+                   intestinal ulcer	0.01
+         neutrophil count decreased	0.02
+                  hepatic cirrhosis	0.02
+                      dyslipidaemia	0.01
+       cardiovascular insufficiency	0.01
+                      polycythaemia	0.02
+                       nail changes	0.01
+progressive multifocal leukoencephalopathy	0.01
+                     muscle atrophy	0.02
+                      schizophrenia	0.01
+            oesophageal candidiasis	0.01
+                       abrasion nos	0.01
+       gastrointestinal perforation	0.02
+                       dissociation	0.01
+              arteriospasm coronary	0.01
+         edema of lower extremities	0.02
+                   sinus arrhythmia	0.02
+                  carcinoma of lung	0.01
+            lung neoplasm malignant	0.02
+                            fasting	0.01
+                   anxiety disorder	0.01
+  drug withdrawal syndrome neonatal	0.01
+            urethritis noninfective	0.02
+                   lactation female	0.01
+         eosinophil count increased	0.01
+              hypoglycemic reaction	0.01
+                  glucose increased	0.01
+   white blood cell count increased	0.02
+                        facial pain	0.01
+                    prostate cancer	0.01
+                        cholangitis	0.01
+                         groin pain	0.01
