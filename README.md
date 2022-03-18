@@ -42,7 +42,7 @@ Other combinations of pytorch and cuda can be found at https://data.pyg.org/whl/
 ### Training SPARSE:
 
 ```shell
-  python main.py -t -d {""|"C"|"J"}
+  python main.py -r -d {""|"C"|"J"}
 
 ```
 ### Extracting top predictions:
