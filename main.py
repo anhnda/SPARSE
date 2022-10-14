@@ -59,7 +59,7 @@ if __name__ == "__main__":
         exit(-1)
     elif options.train:
         if options.full:
-            if options.pref != "":
+            if options.data != "":
                 print("Only support training for full high quality TWOSIDES")
                 exit(-1)
         training.runTraining()
@@ -68,7 +68,7 @@ if __name__ == "__main__":
         from postProcessing.extractingTopPrediction import extract, checkModel
 
         options.full = True
-        options.pref = ""
+        options.data = ""
         parseConfig(options)
         isTrained = checkModel()
         if not isTrained:
@@ -83,7 +83,7 @@ if __name__ == "__main__":
         from postProcessing.drugsComMatching import matching
         from postProcessing.extractingTopPrediction import rematching
         options.full = True
-        options.pref = ""
+        options.data = ""
         parseConfig(options)
         matching()
         rematching(options.tau)
