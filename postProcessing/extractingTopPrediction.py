@@ -681,6 +681,105 @@ def matchTopListDrugsCom(dataPref="", pref="S", iFold=0, tau=params.Tau, shape=N
             print("Top matching predictions: ", spareMatchingPath)
 
 
+def matchTopListDrugsComX(dataPref="", pref="S", iFold=0, tau=params.Tau, shape=None,
+                         pName=True,
+                         rawInterpretationPath = "%s/RawInterpretation.txt"  % params.TMP_DIR,
+                         pairMatchingPath="%s/PairMatching.txt" % params.TMP_DIR,
+                         explanationPath="%s/Top10Explanation.txt" % params.TMP_DIR):
+
+
+
+    dDes = dict()
+    explanations = []
+    spareMatchingPath = "%s/SPARE_TopPredictions.txt" % params.TMP_DIR
+    if explanationPath is not None:
+        fExplanation = open(explanationPath)
+        lines = fExplanation.readlines()
+        for line in lines:
+            explanations.append(line.strip())
+    assert pairMatchingPath is not None
+
+    fin = open(pairMatchingPath)
+    while True:
+        line = fin.readline()
+        if line == "":
+            break
+        parts = line.strip().split("||")
+        dpair = parts[0]
+        des = parts[1]
+        dDes[dpair] = des
+    fMatching = open(spareMatchingPath, "w")
+    fNoMatching = open("%s/InterNoMatching.tsv" % params.TMP_DIR, "w")
+
+    def srt(d1, d2):
+        if d1 > d2:
+            d1, d2 = d2, d1
+        return d1, d2
+    def loadRawPrediction():
+        fin = open(rawInterpretationPath)
+        contentLIst = []
+        tripleList = []
+        #Skip first line
+        fin.readline()
+        currentContent = []
+        while True:
+            line = fin.readline()
+            if line == "":
+                break
+            if line.startswith("+)"):
+                if len (currentContent) > 0:
+                    contentLIst.append(currentContent)
+                    currentContent = []
+                parts = line.strip().split(":")[1]
+                drugs = parts.split(",")
+                d1 = drugs[0].strip()
+                d2 = drugs[1].strip()
+                se = drugs[2].strip()
+                tripleList.append([d1, d2, se])
+                currentContent.append("+)Prediction: %s,%s,%s\n" % (d1,d2,se))
+            else:
+                currentContent.append(line)
+        if len(currentContent) > 0:
+            contentLIst.append(currentContent)
+        return contentLIst, tripleList
+
+    contentList, tripleList = loadRawPrediction()
+    ii1 = 0
+    ii2 = 0
+    for i, tp in enumerate(tripleList):
+        d1Name, d2Name, _ = tp
+        content = contentList[i]
+        d1x, d2x = srt(d1Name.lower(), d2Name.lower())
+        dpair = "%s,%s" % (d1x, d2x)
+        r = utils.get_dict(dDes, dpair, "")
+        if r == "":
+            ff = fNoMatching
+            ii2 = ii2 + 1
+            ii = ii2
+        else:
+            ff = fMatching
+            ii1 = ii1 + 1
+            ii = ii1
+        ff.write("%s" % content[0])
+        # ff.write("%s\t%s\t%s\t%s" % (ii, d1Name, d2Name, sName))
+
+        if r != "":
+            ff.write("\tDescription: %s\n" % r.replace(".", "\n"))
+        ff.write("%s"%"".join(content[1:]))
+
+        if ii <= 10 and r != "" and explanationPath is not None:
+            ff.write("- Explanation: %s\n" % explanations[ii - 1])
+        else:
+            ff.write("\t\n")
+        ff.write("\n")
+
+
+    fMatching.close()
+    fNoMatching.close()
+
+    if params.INFO_OUTPUT:
+        if pairMatchingPath is not None:
+            print("Top matching predictions: ", spareMatchingPath)
 def extract(tau=0.02, mode=1):
     exportLatentFeature(tau=tau)
     if mode == 1:
@@ -690,7 +789,8 @@ def extract(tau=0.02, mode=1):
 
 
 def rematching(tau=0.02):
-    matchTopListDrugsCom(tau=tau, explanationPath=None)
+    # matchTopListDrugsCom(tau=tau, explanationPath=None)
+    matchTopListDrugsComX(tau=tau, explanationPath=None)
 
 
 if __name__ == "__main__":
