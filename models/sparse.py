@@ -283,7 +283,7 @@ class SPARSEModel:
         Sample a sub-tensor of size nSample x nSample x nSample from the DDI tensor of numDrug x numDrug x numSE
         Args:
             nSample: sample size
-            isFull: return the whole DDI tensor
+            isFull: return the indices of the whole DDI tensor
 
         Returns:
             the sampled dimensions of the sub-tensors

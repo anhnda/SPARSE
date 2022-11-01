@@ -288,7 +288,7 @@ def loadInchi2SMILE():
 def createSubSet(inp_path=params.PATH_TWOSIDES_A):
     r"""
     Creat a subset of DDI data for training after filtering invalid names
-    or drugs (side effects) with two small number of samples
+    or drugs (side effects) or having too few numbers of samples
 
     Args:
         inp_path: DDI data file. Format of each line:
@@ -367,7 +367,7 @@ def createSubSet(inp_path=params.PATH_TWOSIDES_A):
     invalidSe = loadInvalidSes()
     endADR = min(len(adrCountsSorted), params.ADR_OFFSET + params.MAX_R_ADR)
     orderedADR = list()
-    # Filter adr list not containing invalid tokens
+    # Filter adr list containing invalid tokens
     # Keep the order of adr
     for i in range(params.ADR_OFFSET, endADR):
         adr, _ = adrCountsSorted[i]
@@ -594,22 +594,29 @@ def producer(data):
     testPosPair2Label = dict()
     validPosPair2Label = dict()
     testNegPair2Label = dict()
-
+    # Process triples: Convert to dictionary: {drug-pair_integer_ids: [list_of_side_effects_integer_ids]
     for tpl in testFold:
         d1, d2, adr = tpl
+        # Get the corresponding list of the drug pair
         posLabels = utils.get_insert_key_dict(testPosPair2Label, (d1, d2), [])
+        # Append labels (Labels start from 0)
         posLabels.append(adr - numDrug)
 
     for tpl in validFold:
         d1, d2, adr = tpl
+        # Get the corresponding list of the drug pair
         posLabels = utils.get_insert_key_dict(validPosPair2Label, (d1, d2), [])
+        # Append labels (Labels start from 0)
         posLabels.append(adr - numDrug)
 
     for tpl in negFold:
         d1, d2, adr = tpl
+        # Get the corresponding list of the drug pair
         negLabels = utils.get_insert_key_dict(testNegPair2Label, (d1, d2), [])
+        # Append labels (Labels start from 0)
         negLabels.append(adr - numDrug)
 
+    # Create indices array of edges
     for edge in edgeSet:
         d1, d2 = edge
         edgeIndex.append([d1, d2])
