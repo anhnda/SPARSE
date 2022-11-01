@@ -5,7 +5,7 @@ import random
 import copy
 from dataFactory.moleculeFactory import MoleculeFactory
 
-from multiprocessing import Process, Value, Queue
+# from multiprocessing import Process, Value, Queue
 
 from dataFactory.dataLoader import RealFoldData
 import itertools
@@ -13,10 +13,11 @@ import time
 import numpy as np
 import torch
 
-# Set the size of holdout negative samples for each pair of drugs (Used for calculating AUC, AUPR)
+# Set the size of holdout negative samples (number of negative (non-interaction) side effects)
+# for each pair of drugs (Used for calculating AUC, AUPR)
 # This number is depended on the number of positive samples for each drug pair of the dataset
 # The number is selected that the reported results of baseline methods (e.g. DECAGON) can be reproduced
-# All methods (containing baselines) use the same training, testing data (and holdout negative samples)
+# All methods use the same training, testing data (and holdout negative samples)
 # of each dataset
 params.SAMPLE_NEG = 1300
 
@@ -706,8 +707,11 @@ def genSMILESFromInchies(inchies):
 def genHyperData(onlyFirst=False):
     r"""
         Generating hypergraph data for all folds
+        Each fold data is stored as a joblib dumped dataFactory.dataLoader.RealFoldData instance
+        at tmpOut/DATASET_DIRNAME
     Args:
         onlyFirst: Only generate the first fold (fold-0, used for debugging). By default: False
+
 
 
     """
@@ -832,7 +836,7 @@ def trainFold2PairStats(trainFold, nOffDrug):
         trainFold: Train hyperedges
         nOffDrug: number of drugs
 
-    Returns: Count for number of occurences of drugs, side effects
+    Returns: Count for number of occurrences of drugs, side effects
 
     """
     dii = dict()
