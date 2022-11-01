@@ -7,8 +7,6 @@ from torch_geometric.nn.inits import uniform
 
 class HyperConv(MessagePassing):
     r"""
-
-
     Implementation of message passing (https://arxiv.org/pdf/1704.01212v2.pdf)
      with clique expansion of hypergraphs ( https://dl.acm.org/doi/10.1145/1401890.1401971).
     n_type = 5 is for 5 types of transformations:
@@ -20,6 +18,10 @@ class HyperConv(MessagePassing):
 
     # Please read SAGEConv (https://arxiv.org/pdf/1706.02216.pdf)
     (torch_geometric.nn.conv.SAGEConv) implementation for further understanding
+
+    In the fast training mode, this module is skipped (by default). In this case, The HyperConv is approximated as an identical function.
+    In practice, this approximation works pretty well, which is much faster, stable, and good performance.
+
     """
     def __init__(self, in_channels, out_channels, normalize=False,
                  concat=False, bias=True, skip_last_weight=True, n_type=5, device=None, **kwargs):
