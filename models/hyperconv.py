@@ -19,7 +19,7 @@ class HyperConv(MessagePassing):
     # Please read SAGEConv (https://arxiv.org/pdf/1706.02216.pdf)
     (torch_geometric.nn.conv.SAGEConv) implementation for further understanding
 
-    In the fast training mode, this module is skipped (by default). In this case, The HyperConv is approximated as an identical function.
+    In the fast training mode (by default), this module is approximated as an identical function.
     In practice, this approximation works pretty well, which is much faster, stable, and good performance.
 
     """

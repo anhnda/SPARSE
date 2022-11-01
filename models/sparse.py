@@ -15,7 +15,7 @@ class SPARSECore(torch.nn.Module):
     def __init__(self, numDrug, numSE, latentSize, features=None, n_layer=1, device=torch.device('cpu'),
                  latentSizeList=None):
         r"""
-        Init SPARSECore module with forward functions (consisting of encoders and decoders)
+        Init SPARSECore module with forward functions (containing encoders and decoders)
         Args:
             numDrug: Number of drug
             numSE: Number of side effect

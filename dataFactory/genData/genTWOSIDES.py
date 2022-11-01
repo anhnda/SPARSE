@@ -16,7 +16,7 @@ import torch
 # Set the size of holdout negative samples for each pair of drugs (Used for calculating AUC, AUPR)
 # This number is depended on the number of positive samples for each drug pair of the dataset
 # The number is selected that the reported results of baseline methods (e.g. DECAGON) can be reproduced
-# All methods (containing baselines) used the same training, testing data (and holdout negative samples)
+# All methods (containing baselines) use the same training, testing data (and holdout negative samples)
 # of each dataset
 params.SAMPLE_NEG = 1300
 
