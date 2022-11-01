@@ -16,6 +16,10 @@ The versions of the packages tested on Ubuntu 18.04.
 
 Other combinations of pytorch and cuda can be found at https://data.pyg.org/whl/
 
+Note: In some cases, there might have error messages, e.g: library*.so not found.
+Or Cuda version* is incompatible. In that cases, you can try to install a recommended version
+from pytorch home page at: https://pytorch.org/get-started/locally/. If it still does not work, 
+then try another combination of pytorch and cuda at https://data.pyg.org/whl/
 
 
 ### Install a chrome driver (Optional for matching drugs.com)

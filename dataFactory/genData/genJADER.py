@@ -7,22 +7,36 @@ from dataFactory.moleculeFactory import  MoleculeFactory
 import itertools
 from multiprocessing import Process, Value, Queue
 
-from dataFactory.dataLoader import RealData, RealFoldData
+from dataFactory.dataLoader import  RealFoldData
 
 import time
 import numpy as np
 import torch
 
+
+r"""
+Generating JADER data is similar to generating TWOSIDES (in genTWOSIDES.py) except that there is no HIGH qualily data option
+Please read comments at genTWOSIDES.py for detail.
+
+
+"""
+
 PATH = params.PATH_JADERDDI
+
+# Here we set threshold for filtering for JADERDDI
+
 MIN_ADR = 60
 MIN_DRUG = 5
-params.SAMPLE_NEG = 200  # Proportion to the number of positive samples for each drug pair of the dataset
+params.SAMPLE_NEG = 200  # For holdout negative size for each ADR, Depend on number of positive samples for each drug pair of the dataset
 
 
 DATASET_DIR = "%s/JADERDDI" % params.TMP_DIR
 utils.ensure_dir(DATASET_DIR)
 D_PREF = "J"
 DUM_FILE = "%s/Dump_%s.pkl" % (DATASET_DIR, D_PREF)
+
+
+
 
 def print_db(*msg):
     if params.PRINT_DB:
@@ -537,7 +551,9 @@ def trainFold2PairStats(trainFold, nOffDrug):
 
 
 def exportData():
+    # Set Flag for real data
     params.ON_REAL = True
+    # Set Flag for normalizing node degree
     params.DEG_NORM = True
     print_db("DRUG, ADR: ", params.MAX_R_DRUG, params.MAX_R_ADR)
 

@@ -2,6 +2,10 @@ import os, yaml
 import logging.config
 import params
 
+
+# Wrapper for the default logger
+# Allow to set the logging path and the logging mode from a config file
+
 C_DIR = os.path.abspath(os.path.dirname(__file__))
 LOG_CONF = None
 try:

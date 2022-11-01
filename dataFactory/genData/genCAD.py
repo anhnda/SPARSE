@@ -7,16 +7,27 @@ from dataFactory.moleculeFactory import MoleculeFactory
 import itertools
 from multiprocessing import Process, Value, Queue
 
-from dataFactory.dataLoader import RealData, RealFoldData
+from dataFactory.dataLoader import  RealFoldData
 
 import time
 import numpy as np
 import torch
 
+
+
+r"""
+Generating CAD data is similar to generating TWOSIDES (in genTWOSIDES.py) except that there is no HIGH qualily data option
+Please read comments at genTWOSIDES.py for detail.
+"""
+
+
 PATH = params.PATH_CADDDI
+
+# Here we set threshold for filtering for JADERDDI
+
 MIN_ADR = 90
 MIN_DRUG = 5
-params.SAMPLE_NEG = 200  # Proportion to the number of positive samples for each drug pair of the dataset
+params.SAMPLE_NEG = 200  # For holdout negative size for each ADR, Depend on number of positive samples for each drug pair of the dataset
 
 DATASET_DIR = "%s/CADDDI" % params.TMP_DIR
 utils.ensure_dir(DATASET_DIR)

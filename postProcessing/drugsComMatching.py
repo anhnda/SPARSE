@@ -16,6 +16,7 @@ RAW_RES_INTER = "%s/RawDrugComResponse.dat" % params.TMP_DIR
 
 def loadDrugList():
     r"""
+    load valid drug name list
     Returns:
         A list of drug names in full high quality TWOSIDES
 
@@ -31,9 +32,10 @@ def loadDrugList():
 
 def getRetrieveDrugURL(drugName):
     r"""
+    get URL for drugs.com query id from drug name
 
     Args:
-        drugName:
+        drugName: drug name
 
     Returns:
         An URL for getting Drugs.com Id given a drug name
@@ -43,7 +45,10 @@ def getRetrieveDrugURL(drugName):
 
 def downloadDrugWebId():
     r"""
-    Getting raw responses from drugs.com for mapping from drug names to drug ids
+    Use annotation with Selenium to get raw responses from drugs.com for mapping from drug names to drug ids on drugs.com
+
+    Note: Drugs.com uses its id for each drug.
+
     The result is saved in RAW_DRUG_TEXT
     """
     browser = webdriver.Chrome()
@@ -53,21 +58,28 @@ def downloadDrugWebId():
         dDrugName2Re = utils.load_obj(RAW_DRUG_TEXT)
     except:
         dDrugName2Re = dict()
-
+    # Iterate for drug name list
     for drug in drugList:
+        # If drug name is already retrieved then skip
         if drug in dDrugName2Re:
             continue
+
         print("\r %s, %s" % (len(dDrugName2Re), drug), end="")
+        # Get corresponding url query for drug name
         urlx = getRetrieveDrugURL(drug)
+        # Get response from given url
         browser.get(urlx)
+        # Extract body html
         html = browser.find_elements(By.TAG_NAME, 'body')[0]
         html = html.get_attribute('innerHTML')
         dDrugName2Re[drug] = html
+        # Delay to avoid too many requests
         time.sleep(3)
+        # Save the results
         if len(dDrugName2Re) % 10 == 0:
             utils.save_obj(dDrugName2Re, RAW_DRUG_TEXT)
             print(html)
-
+    # Save all raw retrieved result for drugs.com id from drug names
     utils.save_obj(dDrugName2Re, RAW_DRUG_TEXT)
 
 
@@ -80,8 +92,13 @@ def parsex(pin=RAW_DRUG_TEXT, pout=DRUG_WEB_ID_PATH):
 
 
     """
+    # Load raw response from drug name to drugs.com id
     d = utils.load_obj(pin)
     fout = open(pout, "w")
+    # Iterating each drugname - rawresponse and extract drugs.com id
+    # Please use inspecting function of Chrome browser to see the location of the
+    # the drugs.com id on the response
+    # The following extraction is to find the corresponding element of the drugs.com id
     for k, v in d.items():
         rex = []
         try:
@@ -122,7 +139,7 @@ def getInteractions(drugWebIdPath=DRUG_WEB_ID_PATH, predictionPath=PREDICTION_PA
     dDrugName2WebId = dict()
 
     browser = webdriver.Chrome()
-
+    # Dictionary to store raw result from input drug pair to drugs.com html responses
     dDrugPairToRe = dict()
     print("Start...")
     try:
@@ -130,6 +147,7 @@ def getInteractions(drugWebIdPath=DRUG_WEB_ID_PATH, predictionPath=PREDICTION_PA
     except:
         pass
     print("Init len: ", len(dDrugPairToRe))
+    # Creating pair of drugs.com id given pairs of drug name
     for line in lines:
         line = line.strip()
         parts = line.split("||")
@@ -139,6 +157,7 @@ def getInteractions(drugWebIdPath=DRUG_WEB_ID_PATH, predictionPath=PREDICTION_PA
         k2 = info[1]
         dDrugName2WebId[drugName] = "%s-%s" % (k1, k2)
     fin.close()
+
     try:
         currentRe = utils.load_obj(pOut)
     except:
@@ -146,15 +165,17 @@ def getInteractions(drugWebIdPath=DRUG_WEB_ID_PATH, predictionPath=PREDICTION_PA
     validDrugs = dDrugName2WebId.keys()
     print("N valid drugs: ", len(validDrugs))
 
-    # exit(-1)
+    # Sort drug pairs to make sure each pair is only searched one time.
     def srt(v1, v2):
         if v1 > v2:
             v1, v2 = v2, v1
         return v1, v2
 
+    # Load the prediction triples
     fin = open(predictionPath)
     lines = fin.readlines()
     print("Loop")
+    # Loo
     for line in lines:
         # print(line)
         try:
@@ -168,23 +189,26 @@ def getInteractions(drugWebIdPath=DRUG_WEB_ID_PATH, predictionPath=PREDICTION_PA
             p = "%s,%s" % (d1, d2)
             if p in currentRe:
                 continue
-
+            # Get pair of drugs.com id
             pair = "%s,%s" % (dDrugName2WebId[d1], dDrugName2WebId[d2])
+            # Get drugs.com interaction checker url
             urlx = "%s%s" % (INTER_PREF, pair)
             print("\r %s, %s, %s" % (len(dDrugPairToRe), p, urlx), end="")
-
+            # Get raw html reponses (body part)
             browser.get(urlx)
             html = browser.find_elements(By.TAG_NAME, 'body')[0]
             html = html.get_attribute('innerHTML')
             dDrugPairToRe[p] = html
+            # Delay to avoid too many requests
             time.sleep(4)
+            # Save results
             if len(dDrugPairToRe) % 10 == 0:
                 utils.save_obj(dDrugPairToRe, pOut)
                 print(html[:20])
         except Exception as e:
             print(e)
             continue
-
+    # Save all results
     utils.save_obj(dDrugPairToRe, pOut)
 
 
@@ -197,6 +221,8 @@ def extractInteraction():
     d = utils.load_obj(RAW_RES_INTER)
     cc = 0
     print("N Pais: ", len(d))
+    # Use inspection function on Chrome browser to see the location of the interaction section on the response
+    # The following code is used to extract the corresponding interaction section
     for k, v in d.items():
         cc += 1
         vbody = BeautifulSoup(v, "html.parser")
